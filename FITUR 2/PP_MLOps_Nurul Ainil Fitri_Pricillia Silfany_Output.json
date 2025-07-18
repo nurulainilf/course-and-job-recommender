@@ -1,0 +1,122 @@
+{
+    "query_1": {
+        "query_text": "Saya baru saja menyelesaikan kursus mendalam tentang machine learning menggunakan Python, scikit-learn, dan TensorFlow. Saya juga mempelajari deep learning dan natural language processing.",
+        "recommendations": [
+            {
+                "Job Title": "Associate AI Engineer (Jogja)",
+                "Company": "BitHealth",
+                "Job Description": "Assisting in the development of AI models.\nImplementing machine learning algorithms and deep learning models.\nCollecting, cleaning, and preprocessing datasets for model training.\nWriting and maintaining AI-related code (Python, TensorFlow, PyTorch, etc.).\nAssisting in deploying AI models into production (using APIs, cloud services, or edge devices).\nMonitoring model performance and troubleshooting issues in deployment.\nWorking with cross-functional teams, including data scientists, software engineers, and product managers.",
+                "Qualification": "A recent graduate or equivalent experience in Computer Science/IT, Data Science, Machine Learning or related field\nFamiliarity using Python programming\nStrong interest in AI & Machine Learning\nAn eagerness to continuously learn and adapt\nExcellent communication skills to collaborate with cross-functional divisions",
+                "Similarity_Score": 0.6841832399368286
+            },
+            {
+                "Job Title": "Data Analyst Intern",
+                "Company": "Astra Financial",
+                "Job Description": "Data Mining dan Querying\nExploratory Data Analysis (EDA)\nPengembangan Model Machine Learning/Deep Learning",
+                "Qualification": "Kemampuan bahasa pemrograman Python dan SQL\nPemahaman terkait Data Science\nPengoperasian Machine Learning secara end-to-end",
+                "Similarity_Score": 0.6233083009719849
+            },
+            {
+                "Job Title": "Machine Learning Intern",
+                "Company": "Kalbe Nutritionals (PT Sanghiang Perkasa)",
+                "Job Description": "Collect, clean, and preprocess data sets for machine learning applications.\nImplement machine learning algorithms based on project requirements.\nEvaluate models using appropriate metrics and ensure they meet the desired performance criteria\nReview academic research papers and industry use cases to identify cutting-edge machine learning techniques\nAssist in deploying and Collaborate with software engineers to integrate models into existing workflows.",
+                "Qualification": "S1 Computer Science / Informatics Engineering / Data Science / Data Analytic / Applied Mathematics / Computer Engineering / Statistika\nWilling to be placed in PT Kalbe Morinaga Cikampek",
+                "Similarity_Score": 0.5697575807571411
+            },
+            {
+                "Job Title": "Sr. Machine Learning Engineer",
+                "Company": "PT ITSEC Asia Tbk",
+                "Job Description": "Conducting research and literature studies related to machine learning (for example, regarding reinforcement learning and its stages)\nDesigning and conducting modeling processes, starting from testing, selecting algorithms and training data\nCritically evaluating machine learning modeling and the results obtained (for example, analysis of features available on devices for system optimization)\nSuggesting improvements/optimizing machine learning models so that they have optimum performance\nReviewing the work results of consultants at a lower level\nFollowing technological developments related to their field and analyzing opportunities for implementing machine learning according to their area of expertise",
+                "Qualification": "Bachelors degree in Computer Science, Electrical Engineering, MIPA\nMinimum 5 years in the field of machine learning\nHas knowledge of machine learning techniques / machine learning framework\nHas knowledge of the machine learning modeling process",
+                "Similarity_Score": 0.552098274230957
+            },
+            {
+                "Job Title": "Internship IoT Engineer",
+                "Company": "PT Qtera Mandiri",
+                "Job Description": "Membantu dalam perancangan, pengembangan, dan pengujian solusi IoT, baik dari sisi hardware maupun software.\nMerakit dan memprogram perangkat sensor, aktuator, dan microcontroller sesuai kebutuhan proyek.",
+                "Qualification": "Mahasiswa aktif atau fresh graduate dari jurusan Teknik Elektro, Teknik Komputer, Teknik Informatika, Sistem Komputer, atau bidang relevan lainnya.\nMemahami dasar-dasar Internet of Things (IoT), termasuk sensor, microcontroller, komunikasi data, dan integrasi perangkat.\nMemiliki pengalaman menggunakan platform seperti Arduino, ESP32, Raspberry Pi, atau sejenisnya.\nMampu membaca datasheet sensor, memahami rangkaian elektronik sederhana, dan melakukan pemrograman perangkat keras.\nTerbiasa dengan bahasa pemrograman seperti C/C++, Python, atau Micropython.\nTeliti, mau belajar, dan mampu menyelesaikan troubleshooting teknis secara mandiri maupun dalam tim.",
+                "Similarity_Score": 0.46701741218566895
+            }
+        ]
+    },
+    "query_2": {
+        "query_text": "Saya memiliki sertifikasi AWS Solutions Architect dan ingin mencari pekerjaan terkait infrastruktur cloud.",
+        "recommendations": [
+            {
+                "Job Title": "Cloud Engineer (Data Center)",
+                "Company": "Wings Group Indonesia (Sayap Mas Utama)",
+                "Job Description": "Design, implement, and maintain AWS cloud solutions, ensuring scalability, security, and performance.\nCollaborate with cross-functional teams to define infrastructure requirements and develop cloud-based solutions.\nBuild and deploy cloud-based applications and services from the ground up.\nMonitor and optimize cloud infrastructure to ensure cost-effectiveness and high availability.\nTroubleshoot and resolve infrastructure issues, implementing preventive measures.\nEnsure compliance with security best practices and industry standards.\nAutomate repetitive tasks and processes to improve efficiency.\nStay up-to-date with AWS services and industry trends, making recommendations for improvements.",
+                "Qualification": "Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience).\nMinimum of 3 years of hands-on experience with AWS cloud services.\nProven experience in building products or applications from scratch in a cloud environment.\nStrong proficiency in infrastructure as code (IAC) and automation tools such as Terraform, AWS CloudFormation, or similar.\nExperience with containerization technologies like Docker and orchestration with Kubernetes is a plus.\nStrong understanding of cloud security best practices.\nExcellent problem-solving skills and the ability to work effectively in a collaborative team environment.\nAWS certifications (e.g., AWS Certified Solutions Architect, AWS Certified DevOps Engineer) are a plus.",
+                "Similarity_Score": 0.7279883027076721
+            },
+            {
+                "Job Title": "IT Cloud Engineer",
+                "Company": "PT TOYOTA ASTRA FINANCIAL SERVICES",
+                "Job Description": "Designing, reviewing, documenting, doing a standardization and monitoring company's cloud infrastucture",
+                "Qualification": "High attention to detail, strong analytical & initiative, can work both independently and team\nHave at least one year experience of managing public cloud\nHave a work experience as an IT Cloud Engineer is an advantage",
+                "Similarity_Score": 0.6778392195701599
+            },
+            {
+                "Job Title": "Senior Infrastructure Engineer",
+                "Company": "Bank Sahabat Sampoerna",
+                "Job Description": "1. Build and maintain core infrastructures in the cloud and on-premise, using modern infrastructure service such as Kubernetes, Docker and Serveless Computing.\n2. Implement tooling and automation to make our developers more productive and happier using tools such as Jenkins, Terraform, Ansible and RunDeck.\n3. Improve our system reliability by applying industry best practice processes in our operation and implement tools such as Datadog, Splunk and PageDuty.\n4. Support out data engineering team building big data infrastructure using tools such as Kafka, Presto and Redash.\n5. Keep our IT infrastructure secure and comply with international security standards such as PCI-DSS and ISO 27001, and license from Bank Indonesia or OJK such as payment Gateway Operator, electronic Money and Remitter.\n6. Provide infrastructure support to the product team from the design phase until the build testing phase to ensure aligment throughout SDLC.",
+                "Qualification": "1. Bechelor's degree in computer science an Equivalent combination and work experience may be taken into consideration in lieu of a degree. \n2. 5-7 years of relevant IT experience, with a minimum of 2 years experience focusing on cloud infrastructure. \n3. Hands-on technical experience on building and maintaning cloud infrastuctures such as AWS, GCP, Azure or AlibabaCloud. \n4. Hands-on technical experience on building and maintaining CI/CD platforms such as Jenkins, CircleCI, Travis, TeamCity or Buddy Works. \n5. Hands-on technical exoerience on configuring an fine tuning monitoring and logging tools such as Datadog, NewRelic, Spljnk or AlienVault.\n6. You thrive on the autonomy and have proven you can push towards a goal by yourself. \n7. Exceptional verbal and written comminication skills in English. \n8. Bonus point if you have experience working in High growth startup or highly regulated company which require compliance from PCI DSS or HIPAA",
+                "Similarity_Score": 0.6729588508605957
+            },
+            {
+                "Job Title": "Senior System Architect",
+                "Company": "SG-EDTS",
+                "Job Description": "What You Will Do:",
+                "Qualification": "Min. 5+ years of experience as Backend or Fullstack Engineer is advantage\nExperience with cloud platforms (AWS, Azure, or GCP)\nFamiliarity with DevOps, microservices, containerization (e.g., Docker, Kubernetes), and CI/CD pipelines\nStrong knowledge of software engineering principles, data modeling, APIs, and system integration\nFamiliarity with monitoring and logging tools (APM, ELK stack, grafana and prometheus setup)\nTroubleshooting and problem-solving skills\nThe ability to work and communicate complex procedures to other colleagues\nExcellent communication and interpersonal skills\nFull WFO at Wisma 46 Jakarta Pusat",
+                "Similarity_Score": 0.662968099117279
+            },
+            {
+                "Job Title": "Infrastructure Server System Architect",
+                "Company": "Xapiens Teknologi Indonesia",
+                "Job Description": "Job description:\nOverall Job Purpose:\nDeliver project on network & communication area.the activity will be consist of :",
+                "Qualification": "Certification : VCP, Hardware certification or training, Backup system, Cloud environment will be prioritized\nExperience : Minimal 6 years working on server enterprise infrastructure\nExperience implement project on Enterprise servers\nDeep knowledge for enterprise server infrastructure concept, backup system, cloud environment, server and storage hardware, server infra product.",
+                "Similarity_Score": 0.6086101531982422
+            }
+        ]
+    },
+    "query_3": {
+        "query_text": "Saya belajar tentang manajemen produk, desain UX/UI, dan metodologi Agile.",
+        "recommendations": [
+            {
+                "Job Title": "Product Designer",
+                "Company": "Tentang Anak",
+                "Job Description": "Role Overview:\nA Product Designer will support end-to-end UI/UX execution by translating user needs and product strategy into intuitive, engaging features. The role includes creating visual assets, interaction flows, and user journeys for a consistent experience, while collaborating closely with Product Managers, Engineers, and Product Ops to deliver high-quality features aligned with team OKRs.\nJob Responsibilities:",
+                "Qualification": "4-6 years of experience as a UI/UX Designer, Product Designer, or similar\nProficient in design tools (e.g., Figma, Adobe Suite)\nStrong portfolio demonstrating UX thinking, UI execution, and visual creativity\nFamiliarity with user research methods and data-driven design\nAbility to communicate design rationale effectively to cross-functional teams\nExperience designing for mobile-first or commerce-related platforms will be a plus point",
+                "Similarity_Score": 0.6641318798065186
+            },
+            {
+                "Job Title": "Internship UI/UX Designer",
+                "Company": "PT Qtera Mandiri",
+                "Job Description": "Membantu design website dan aplikasi yang dibutuhkan perusahaan.",
+                "Qualification": "Mahasiswa aktif atau fresh graduate dari jurusan Desain Komunikasi Visual, Informatika, Sistem Informasi, atau bidang relevan lainnya.\nMenguasai tools desain seperti Figma untuk pembuatan wireframe, prototipe, dan final UI.\nMemahami dasar-dasar prinsip desain, user interface (UI), dan user experience (UX) termasuk user flow dan usability.\nMemiliki portofolio desain UI untuk aplikasi atau website (boleh berupa project pribadi, tugas kuliah, freelance, atau kompetisi).\nMemiliki kreativitas tinggi, attention to detail, serta peka terhadap kebutuhan user.\nMampu bekerja kolaboratif dengan tim product, developer, dan marketing untuk menciptakan desain yang efektif dan efisien.\nTerbiasa menerima feedback dan mampu melakukan iterasi desain dengan cepat.",
+                "Similarity_Score": 0.6581969261169434
+            },
+            {
+                "Job Title": "Associate Product Manager",
+                "Company": "Vidio",
+                "Job Description": "Assist in defining product vision, roadmap, and KPIs for Vidio’s OTT platform.\nConduct market research, competitive analysis, and user feedback to identify opportunities for product improvement.\nCollaborate with stakeholders to prioritize features based on business impact and user needs.\nWork closely with engineering and design teams to ensure timely and high-quality feature releases.\nMonitor product performance based on data insights.\nCommunicate product updates, progress, and challenges to internal teams and leadership.",
+                "Qualification": "Bachelor’s degree in Business, Computer Science, Engineering, or a related field.\n1-3 years of experience in product management, preferably in OTT, digital media, or tech.\nStrong analytical skills with experience in data-driven decision-making (SQL, Google Analytics, or similar tools is a plus).\nFamiliarity with Agile methodologies and product management tools\nPassion for streaming platforms, UX, and customer-centric product development.\nExcellent communication and collaboration skills.\nKnowledge of content recommendation algorithms or personalization strategies.\nPrevious work in a fast-paced startup or tech-driven environment.",
+                "Similarity_Score": 0.6559910774230957
+            },
+            {
+                "Job Title": "Product Manager",
+                "Company": "PT Node Solusi Teknologi",
+                "Job Description": "Fresh/Recent Graduate from any major/Last year student able to commit 40h/week.\nDeep knowledge in software product management.\nGood communication skill.\nTeam work and can-do attitude.",
+                "Qualification": "Define and communicate product vision and strategy to internal teams and stakeholders.\nConduct product, market, and industry research and competitive analysis to identify market trends and business opportunities.\nDevelop and maintain the product roadmap and prioritize features and functionality based on business objectives, customer needs, and technical feasibility.\nWork closely with all teams, including engineering, design, sales, marketing, and customer support, to ensure successful product development and launch.\nDevelop and maintain product requirements documents, user stories, and use cases to guide product development.",
+                "Similarity_Score": 0.6538041234016418
+            },
+            {
+                "Job Title": "BP Incredibles Batch 4 - Business Operations Analyst Intern",
+                "Company": "BP Consulting Group (BrandPartner) - Strategic Business Consultant",
+                "Job Description": "Develop strategic business plan for all kinds of industries (framework & methodology will be trained).\nCreate marketing campaigns that effectively increase awareness and understanding of the business.",
+                "Qualification": "Strong interest in branding and marketing world.\nA creative, critical, and analytical-thinking mindset.\nA team player attitude. Comfortable both working alone and collaborating with the team.\nCuriosity! We love learners and challengers.",
+                "Similarity_Score": 0.6504077911376953
+            }
+        ]
+    }
+}
