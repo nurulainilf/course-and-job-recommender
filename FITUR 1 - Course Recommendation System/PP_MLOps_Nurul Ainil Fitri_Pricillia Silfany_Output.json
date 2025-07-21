@@ -1,0 +1,1516 @@
+[
+    {
+        "input": {
+            "skill": [
+                "python",
+                "machine learning",
+                "data analysis"
+            ],
+            "category": [
+                "data science"
+            ],
+            "top_n": 5
+        },
+        "recommendations": [
+            {
+                "Category": "Data Science",
+                "Description": "",
+                "Duration": "1 - 3 Months",
+                "Institution": "University of London",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This week we will introduce you to the course and to the team who will be guiding you through the course over the next 5 weeks. The aim of this week's material is to gently introduce you to Data Science through some real-world examples of where Data Science is used, and also by highlighting some of the main concepts involved.",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "Modules Name": [
+                    "Week 1: Foundations of Data Science: K-Means Clustering in Python",
+                    "Week 2: Means and Deviations in Mathematics and Python",
+                    "Week 3: Moving from One to Two Dimensional Data",
+                    "Week 4: Introducing Pandas and Using K-Means to Analyse Data",
+                    "Week 5: A Data Clustering Project"
+                ],
+                "Rating": 4.6,
+                "Similarity": 0.7207813262939453,
+                "Skills": "Unsupervised Learning, Machine Learning Algorithms, Pandas (Python Package), Matplotlib, Machine Learning, Probability & Statistics, Data Analysis, Data Visualization, NumPy, Python Programming, Data Science, Descriptive Statistics, Data Manipulation, Statistics",
+                "Subcategory": "Machine Learning",
+                "Title": "Foundations of Data Science: K-Means Clustering in Python",
+                "Type": "Course"
+            },
+            {
+                "Category": "Data Science",
+                "Description": "This course is part of multiple programs",
+                "Duration": "1 - 3 Months",
+                "Institution": "IBM",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "In this module, you will develop foundational skills in Python-based data analysis by learning how to understand and prepare datasets, utilize essential Python packages, and import and export data for analysis. You'll gain hands-on experience using tools like Pandas, Numpy, and SQLite to begin analyzing real-world datasets, including a laptop pricing dataset. In addition, you'll be provided with a cheat sheet that serves as a handy reference throughout this learning journey.",
+                    "In this module, you will enhance your data wrangling skills using Python by learning techniques to clean, transform, and prepare data for analysis. You'll work with real-world datasets to handle missing values, format and normalize data, bin numerical values, and convert categorical variables. Through guided labs, you'll apply these skills to both the Laptop and Used Car Pricing datasets. You will also receive a cheat sheet to support you as a quick reference throughout the learning process.",
+                    "In this module, you will build essential skills in exploratory data analysis (EDA) using Python. You will learn to perform computations on the data to calculate basic descriptive statistical information, such as mean, median, mode, and quartile values, and use that information to better understand the distribution of the data. You will learn how to group data to better visualize patterns, use the Pearson correlation method to compare two continuous numerical variables, and apply the chi-square test to assess associations between categorical variables and interpret the results. Further, you will be provided with a cheat sheet that will serve as a quick reference for commonly used EDA functions and methods.",
+                    "In this module, you will explore the fundamentals of model development in data analysis using Python. You'll learn how to build, visualize, and evaluate different types of regression models, including simple linear, multiple linear, and polynomial regression models, along with pipelines to streamline your workflows. You'll also interpret model performance using key metrics and visual tools such as kernel density estimation (KDE) plots. Hands-on labs will reinforce your learning with practical datasets like used car and laptop pricing. Additionally, the cheat sheet will serve as a quick reference for building and evaluating predictive models.",
+                    "In this module, you will refine your predictive modeling skills by learning how to evaluate, tune, and select models for optimal performance. You'll explore concepts such as overfitting, underfitting, and hyperparameter tuning using grid search. You will also learn about using ridge regression to regularize and reduce standard errors to prevent overfitting a regression model. Through hands-on labs, you'll apply these techniques to real datasets to build robust, generalizable models. A cheat sheet is included to guide you in choosing the right tools and metrics for model optimization.",
+                    "In this final module, you will apply the complete data analysis workflow, from importing and cleaning data to building and evaluating models on real-world datasets. You'll complete a hands-on practice project and a peer-reviewed final project based on datasets related to insurance costs and house pricing. For the final project, you will take on the role of a Data Analyst at a real estate investment trust looking to invest in residential properties. You'll work with a dataset containing detailed information on house prices and various property features, and your task will be to analyze the data and predict housing market values. These projects are designed to consolidate your skills and prepare you for real-world data analysis challenges. Finally, you will demonstrate comprehension and application of key data analysis concepts through a final exam."
+                ],
+                "Modules Name": [
+                    "Importing Data Sets",
+                    "Data Wrangling",
+                    "Exploratory Data Analysis",
+                    "Model Development",
+                    "Model Evaluation and Refinement",
+                    "Final Assignment"
+                ],
+                "Rating": 4.7,
+                "Similarity": 0.716143012046814,
+                "Skills": "Matplotlib, Data Pipelines, Python Programming, Data Cleansing, Data Visualization, Data Import/Export, Data Manipulation, Pandas (Python Package), Predictive Modeling, Statistical Modeling, Data Wrangling, NumPy, Exploratory Data Analysis, Data Analysis, Supervised Learning, Scikit Learn (Machine Learning Library), Regression Analysis, Data-Driven Decision-Making, Descriptive Statistics, Feature Engineering",
+                "Subcategory": "Data Analysis",
+                "Title": "Data Analysis with Python",
+                "Type": "Course"
+            },
+            {
+                "Category": "Data Science",
+                "Description": "This course is part of multiple programs",
+                "Duration": "1 - 3 Months",
+                "Institution": "Meta",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "In this module you will be introduced to Python and how it can be used in data analytics. You will also learn how to use the Jupyter Notebook programming environment.",
+                    "In this module, you will learn basic programming principles such as variables and variable types using Python. You'll also delve into basic Python statements such as Booleans and conditional statements.",
+                    "This week is focused on using a Python library called Pandas. You will learn how to use Pandas to load, select, and clean data.",
+                    "This week you will further explore and analyze datasets with Python. You will learn how to calculate basic statistics and create data visualizations with Pandas and Matplotlib, another Python library.",
+                    "This week you will focus on modeling data with Python and interpreting the model results. You complete a data analytics challenge that applies the knowledge of Python and the application of the OSEMN framework you have gained throughout the course."
+                ],
+                "Modules Name": [
+                    "Introduction to Python",
+                    "Basic Python Concepts",
+                    "Obtaining and Scrubbing Data with Pandas",
+                    "Exploring Data with Python",
+                    "Modeling and Interpreting Data with Python"
+                ],
+                "Rating": 4.3,
+                "Similarity": 0.6870186924934387,
+                "Skills": "Matplotlib, Pandas (Python Package), Data Analysis, Data Processing, Data Visualization Software, Programming Principles, Data Modeling, Data Visualization, Python Programming, Scripting, Data Manipulation, Jupyter, Exploratory Data Analysis, Data Cleansing",
+                "Subcategory": "Data Analysis",
+                "Title": "Python Data Analytics",
+                "Type": "Course"
+            },
+            {
+                "Category": "Data Science",
+                "Description": "This course is part of Python, SQL, Tableau for Data Science Professional Certificate",
+                "Duration": "1 - 3 Months",
+                "Institution": "Coursera",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "In this module, you'll set up a powerful development environment, master essential Python syntax, and learn to leverage GitHub for seamless collaboration. By the module's end, you'll be equipped with the same foundational skills used by industry pros, including cutting-edge GenAI applications. Get ready to transform from a coding novice to a confident data explorer.",
+                    "In this module, you'll develop essential skills for transforming raw data into analysis-ready formats - a critical foundation for any data science workflow. You'll master techniques for importing data from diverse sources, manipulating complex datasets, and optimizing data structures for analysis. Working with real-world datasets from our EngageMetrics and MediTrack case studies, you'll build practical experience in data preparation that directly translates to professional scenarios.",
+                    "In this module, you'll learn to uncover and communicate insights through powerful data visualization techniques. You'll master both static and interactive visualization tools, from Matplotlib and Seaborn to Plotly, while conducting thorough exploratory data analysis. Using the EngageMetrics and MediTrack datasets, you'll develop the skills to transform complex data into compelling visual stories that drive decision-making.",
+                    "In this module, you'll elevate your analytical capabilities with advanced statistical methods and testing procedures. You'll learn to conduct hypothesis tests, design and analyze A/B tests, and automate analytical workflows. Working with real employee and medical data, you'll gain hands-on experience in applying sophisticated analytical techniques to solve complex business problems.",
+                    "In this module, you'll learn to implement professional data science workflows using GitHub, AI-assisted documentation, and strategic version control. Working with the EngageMetrics employee dataset, you'll develop essential skills for collaborative data science projects. You'll learn version control best practices for Jupyter notebooks and discover how to leverage AI tools for efficient documentation. Throughout the module, you'll practice effective branching strategies that help manage complex analyses. Through hands-on labs and real-world scenarios, you'll gain practical experience that directly translates to professional data science work. By the end of this module, you'll be prepared to manage collaborative projects using industry-standard version control practices.",
+                    "This final module combines hands-on practice and focused assessment to validate your data science capabilities. You'll first work through a comprehensive TrendWave Media analysis project, then demonstrate your mastery through a targeted assessment covering key data science concepts and skills."
+                ],
+                "Modules Name": [
+                    "Introduction to Python and Environment Setup",
+                    "Data Loading and Manipulation",
+                    "Data Exploration and Visualization",
+                    "Advanced Data Analysis Techniques",
+                    "GitHub Integration",
+                    "Data Science Workflow Capstone"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.6868624091148376,
+                "Skills": "Python Programming, Data Analysis, A/B Testing, GitHub, Data Science, Programming Principles, Interactive Data Visualization, Scripting, NumPy, Data Cleansing, Data Manipulation, Statistical Methods, Plotly, Version Control, Exploratory Data Analysis, Data Visualization, Pandas (Python Package), Data Transformation, Matplotlib, Statistical Analysis",
+                "Subcategory": "Data Analysis",
+                "Title": "Python for Data Science (and Version Control with GitHub)",
+                "Type": "Course"
+            },
+            {
+                "Category": "Data Science",
+                "Description": "This course is part of Applied Data Science with Python Specialization",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "University of Michigan",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "In this module, you will get an introduction to principles of information visualization. We will be introduced to tools for thinking about design and graphical heuristics for thinking about creating effective visualizations. All of the course information on grading, prerequisites, and expectations are on the course syllabus, which is included in this module.",
+                    "In this module, you will delve into basic charting. For this week's assignment, you will work with real world CSV weather data. You will manipulate the data to display the minimum and maximum temperature for a range of dates and demonstrate that you know how to create a line graph using matplotlib. Additionally, you will demonstrate the procedure of composite charts, by overlaying a scatter plot of record breaking data for a given year.",
+                    "In this module you will explore charting fundamentals. For this week's assignment you will work to implement a new visualization technique based on academic research. This assignment is flexible and you can address it using a variety of difficulties - from an easy static image to an interactive chart where users can set ranges of values to be used.",
+                    "In this module, then everything starts to come together. Your final assignment is entitled \"Becoming a Data Scientist.\" This assignment requires that you identify at least two publicly accessible datasets from the same region that are consistent across a meaningful dimension. You will state a research question that can be answered using these data sets and then create a visual using matplotlib that addresses your stated research question. You will then be asked to justify how your visual addresses your research question."
+                ],
+                "Modules Name": [
+                    "Module 1: Principles of Information Visualization",
+                    "Module 2: Basic Charting",
+                    "Module 3: Charting Fundamentals",
+                    "Module 4: Applied Visualizations"
+                ],
+                "Rating": 4.5,
+                "Similarity": 0.6859644055366516,
+                "Skills": "Data Visualization Software, Interactive Data Visualization, Statistical Visualization, Data Manipulation, Graphing, NumPy, Data Visualization, Histogram, Data Presentation, Scientific Visualization, Scatter Plots, Matplotlib, Visualization (Computer Graphics), Pandas (Python Package), Python Programming",
+                "Subcategory": "Data Analysis",
+                "Title": "Applied Plotting, Charting & Data Representation in Python",
+                "Type": "Course"
+            }
+        ]
+    },
+    {
+        "input": {
+            "skill": [
+                "user experience",
+                "user interface",
+                "figma"
+            ],
+            "category": [
+                "design"
+            ]
+        },
+        "recommendations": [
+            {
+                "Category": "Computer Science",
+                "Description": "This course is part of Figma, Sketch & Miro for UX Design Professional Certificate",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Coursera",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "Modules Name": [
+                    "Introduction to User Experience (UX) Discovery and Figma Basics",
+                    "User Personas and Journey Mapping",
+                    "User Flow and Wireframing",
+                    "Basic Prototyping and Design Critique"
+                ],
+                "Rating": 4.7,
+                "Similarity": 0.7460998296737671,
+                "Skills": "Figma (Design Software), UI/UX Research, User Interface and User Experience (UI/UX) Design, Wireframing, User Research, User Centered Design, Human Centered Design, Prototyping, Collaborative Software, User Experience Design, Persona (User Experience), Usability, User Experience, User Flows",
+                "Subcategory": "Design and Product",
+                "Title": "Discovery and Low-Fidelity Design with Figma",
+                "Type": "Course"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "Design powerful user experiences. Create intuitive, user-centered designs using cutting-edge UX strategies and industry-standard tools, Figma and Sketch.",
+                "Duration": "3 - 6 Months",
+                "Institution": "Coursera",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "Understand the importance of discovery in the UX design process and how to gather and document user requirements.\nCreate personas and user journey maps, and design wireframes and prototypes with Figma.\nUtilize Figma's collaborative features for efficient team brainstorming and ideation.",
+                    "In this course, learners will elevate their UX design skills by  immersing themselves in high-fidelity design and user testing using Figma, a powerful industry-standard tool. They will learn how to create a comprehensive Design System, develop interactive prototypes, conduct usability tests, and iterate on designs based on user feedback. Throughout the course, learners will continue working on the GreenLeaf Grocers app, transforming their low-fidelity designs into a fully functional, visually appealing, and user-friendly high-fidelity prototype.\nBy the end of this course, learners will be able to:\n- Create a comprehensive Design System in Figma, ensuring consistency and efficiency in the design process\n- Develop high-fidelity, interactive prototypes using Figma's advanced features, such as complex interactions and animations\n- Plan and conduct usability tests to gather valuable user feedback and identify areas for improvement\n- Analyze usability test results and iterate on designs based on data-driven insights\n- Prepare design specifications and assets for a smooth handoff to development teams",
+                    "Understand the importance of discovery in the UX design process, and analyze user research findings to compile requirements.\nCreate personas and user journey maps using Miro's intuitive interface, and design wireframes and prototypes utilizing Sketch's powerful tools.\nLeverage Miro's collaborative features for effective team brainstorming and ideation.",
+                    "In this immersive course, you'll investigate the world of high-fidelity UX design, focusing on refining wireframes, creating comprehensive user flows, and prototyping complex interactions using Sketch. This course is designed for UX designers aspiring to master high-fidelity design using the industry-standard Sketch app, whether they're newcomers to the field or seasoned professionals looking to sharpen their skills.\nYou'll learn to develop responsive designs across platforms and conduct usability testing to iterate on your designs based on user feedback. You'll also explore design documentation and annotation for effective engineering handoff. This course is for UX designers wanting to learn more about high-fidelity using Sketch.\n\nBy the end of the course, you'll be able to:\n- Refine wireframes based on feedback and leverage design systems\n- Create interactive prototypes with advanced features in Sketch\n- Develop and test responsive designs for various devices\n- Plan and conduct usability tests to gather valuable user insights\n- Iterate on designs based on user feedback and data analysis\n- Create detailed design documentation and annotations for seamless developer collaboration"
+                ],
+                "Modules Name": [
+                    "Discovery and Low-Fidelity Design with Figma",
+                    "High-Fidelity Design and User Testing with Figma",
+                    "Discovery and Low-Fidelity Design with Sketch and Miro",
+                    "High-Fidelity Design and User Testing with Sketch"
+                ],
+                "Rating": 4.8,
+                "Similarity": 0.741492748260498,
+                "Skills": "Human Centered Design, Ideation, Animations, User Research, Prototyping, User Flows, Wireframing, User Interface and User Experience (UI/UX) Design, UI Components, Collaborative Software, User Interface (UI) Design, Design",
+                "Subcategory": "Design and Product",
+                "Title": "Figma, Sketch & Miro for UX Design",
+                "Type": "Professional Certificate"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "This course is part of Figma, Sketch & Miro for UX Design Professional Certificate",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Coursera",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "Focus on refining low-fidelity wireframes based on feedback, developing a comprehensive Design System for the GreenLeaf Grocers app, and creating high-fidelity mockups using Figma to ensure visually appealing and functional interfaces.",
+                    "Learn to design intuitive navigation systems and micro-interactions, implement responsive design principles, and utilize Figma's advanced prototyping features to create complex, high-fidelity interactive prototypes for the GreenLeaf Grocers app.",
+                    "Develop and execute a usability testing plan, gather qualitative and quantitative feedback, analyze test results, and implement design iterations to improve the GreenLeaf Grocers app based on user insights.",
+                    "Create detailed design documentation, generate accurate specifications for developers using Figma's inspection tools, prepare design assets for development handoff, and develop a compelling UX case study presentation showcasing the entire design process for the GreenLeaf Grocers app."
+                ],
+                "Modules Name": [
+                    "From Low-Fidelity to High-Fidelity Design",
+                    "Advanced Prototyping and Interaction Design",
+                    "Usability Testing and Iteration",
+                    "Design Specifications and Handoff"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.7161937952041626,
+                "Skills": "User Experience Design, Prototyping, User Interface (UI) Design, Software Design Documents, Design Specifications, User Flows, Mockups, UI Components, Responsive Web Design, Figma (Design Software), Usability Testing, Animations",
+                "Subcategory": "Design and Product",
+                "Title": "High-Fidelity Design and User Testing with Figma",
+                "Type": "Course"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "This course is part of Figma, Sketch & Miro for UX Design Professional Certificate",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Coursera",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "Module 1 focuses on transitioning from initial concepts to polished mockups. You'll analyze and refine low-fidelity wireframes, develop a comprehensive Design System for GreenLeaf Grocers, apply design principles for visually appealing interfaces, and use Sketch to translate wireframes into high-fidelity mockups leveraging the created Design System. By the end, you'll have mastered transforming concepts into high-fidelity designs, preparing you for advanced prototyping.",
+                    "In module 2, you'll elevate your skills through designing intuitive navigation and micro-interactions, implementing responsive design principles across devices, utilizing Sketch's advanced prototyping features for complex interactions, and developing a fully interactive, high-fidelity GreenLeaf Grocers app prototype. By the end, you'll master advanced prototyping techniques for creating captivating, responsive designs across platforms.",
+                    "This module equips you with skills for usability testing and design documentation. You'll create comprehensive documentation, specifications, and asset packages to ensure effective handoffs to developers. Additionally, you'll analyze usability test data, applying an iterative design process based on user feedback. You'll also plan and execute usability testing using best practices and tools like Sketch to refine the GreenLeaf Grocers app's user experience iteratively.",
+                    "In this final module, you'll reflect on the key concepts and skills learned throughout the course. You'll also develop a compelling case study presentation showcasing the entire UX design process for the GreenLeaf Grocers project. This comprehensive case study will demonstrate your ability to navigate a real-world design challenge, from research and wireframing to prototyping, testing, and implementation, while honing your storytelling abilities to effectively communicate your design decisions and the value of your work. By the end, you'll have a polished, professional-grade case study that highlights your technical skills, critical thinking, and exceptional user experience delivery."
+                ],
+                "Modules Name": [
+                    "From Low-Fidelity to High-Fidelity Design",
+                    "Prototyping and Interaction Design",
+                    "Usability Testing and Iteration",
+                    "Course Wrap Up"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.6926637291908264,
+                "Skills": "Prototyping, Interaction Design, Wireframing, User Interface (UI) Design, Usability Testing, Responsive Web Design, Mockups, Software Documentation, User Centered Design, User Experience Design, Design Software",
+                "Subcategory": "Design and Product",
+                "Title": "High-Fidelity Design and User Testing with Sketch",
+                "Type": "Course"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "This course is part of Figma, Sketch & Miro for UX Design Professional Certificate",
+                "Duration": "1 - 3 Months",
+                "Institution": "Coursera",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "In this module, you will gain a comprehensive understanding of the course structure, learning objectives, and the central role of Miro and Sketch in the UX design process. You will explore the key stages of UX design, from initial research to low-fidelity prototyping, and learn how to set up and navigate your Miro and Sketch workspaces effectively. By the end of this module, you will have a solid foundation in the essential tools and processes of UX design, setting the stage for the rest of the course.",
+                    "In this module, you will master the research and synthesis skills needed to turn raw data into actionable insights. You'll learn to interpret both qualitative and quantitative user research data, and then synthesize those findings into clear, compelling user personas and journey maps using Miro and Sketch. By identifying key pain points and opportunities along the user journey, you will develop the ability to formulate precise problem statements that will guide your design decisions.",
+                    "In this module, you will learn how to develop basic user flows using Miro and Sketch, apply wireframing best practices to create low-fidelity designs, and leverage the tools provided by Miro and Sketch to efficiently create and iterate on your wireframes. By the end of this module, you will have a solid understanding of how to create effective user flows and wireframes that form the foundation of your UX design process.",
+                    "In this module, you will create interactive click-through prototypes by connecting wireframes using Miro and Sketch's basic prototyping features. You will also learn to develop design critiques, and how to leverage them to iterate on your own designs based on the feedback received. These activities will help you develop essential skills in creating engaging user experiences and collaborating effectively with others to refine and improve your work.",
+                    "In this final module, you will review the skills and knowledge acquired throughout the course, ensuring a comprehensive understanding of the UX design process and the effective use of Miro and Sketch. Additionally, you will learn what to include in your professional portfolio to showcase your work and skills effectively to potential employers or clients. Lastly, you will explore the recommended next steps in your learning journey, identifying the most appropriate course to further develop your UX design expertise based on your goals and interests."
+                ],
+                "Modules Name": [
+                    "Introduction to User Experience (UX) Discovery and Miro/Sketch Basics",
+                    "User Personas and Journey Mapping",
+                    "User Flow and Wireframing",
+                    "Basic Prototyping and Design Critique",
+                    "Course Wrap Up"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.686718225479126,
+                "Skills": "User Research, Design Reviews, User Experience Design, Design, Prototyping, Mockups, Usability, UI/UX Research, Ideation, Persona (User Experience), Wireframing, User Centered Design, Design Research, User Flows",
+                "Subcategory": "Design and Product",
+                "Title": "Discovery and Low-Fidelity Design with Sketch and Miro",
+                "Type": "Course"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Coursera",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "Develop and execute a usability testing plan, gather qualitative and quantitative feedback, analyze test results, and implement design iterations to improve the GreenLeaf Grocers app based on user insights."
+                ],
+                "Modules Name": [
+                    "Usability Testing and Iteration"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.6743659973144531,
+                "Skills": "Figma (Design Software), Test Planning, User Centered Design, Usability Testing, Prototyping, User Research, UI/UX Research, Usability, User Experience Design",
+                "Subcategory": "Design and Product",
+                "Title": "Test, Learn, Evolve: Usability Testing in Figma",
+                "Type": "Course"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Coursera",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "Learn to design intuitive navigation systems and micro-interactions, implement responsive design principles, and utilize Figma's advanced prototyping features to create complex, high-fidelity interactive prototypes for the GreenLeaf Grocers app."
+                ],
+                "Modules Name": [
+                    "Advanced Prototyping and Interaction Design"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.6693245768547058,
+                "Skills": "User Interface (UI), Figma (Design Software), User Experience Design, Interaction Design, Usability, Animations, Responsive Web Design, Prototyping, Mockups, User Flows",
+                "Subcategory": "Design and Product",
+                "Title": "Interaction Intelligence: Advanced Prototyping with Figma",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "Launch your Career in Graphic Design. Gain job-ready skills with tools such as Photoshop, Illustrator, and Figma, and build a professional portfolio. No prior experience required.",
+                "Duration": "3 - 6 Months",
+                "Institution": "Xbox",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Unleash your creativity and design captivating visuals for the gaming world with the Xbox Graphic Designer Professional Certificate. Learn essential graphic design principles and Adobe Photoshop skills to create stunning promotional posters and marketing materials. Explore typography, color theory, image composition, and layout techniques, and apply them to real-world projects. Develop your design thinking, gain practical experience, and create a standout portfolio piece that showcases your talent.\nBy the end of this course, you'll be able to: \n\n• Identify and apply the principles of typography, imagery, color, and layout in graphic design.\n• Demonstrate basic skills in using Adobe Photoshop for creating graphic designs.\n• Create visually appealing compositions by selecting appropriate colors, typography, and imagery.\n• Complete a final project that demonstrates the application of fundamental graphic design principles in a promotional poster using Adobe Photoshop.\n\nThis is an introduction course, intended for learners with a passion for art and design, or who are interested in the gaming industry and want to learn how to create visuals for games, or students considering a degree in graphic design or related field. To succeed in this course, you should have basic literacy, a genuine curiosity and enthusiasm for visual communication and design principles, and access to Adobe Photoshop.",
+                    "This course develops graphic designs skills using Adobe IIllustrator and design sensibilities through effective feedback integration and iterative design processes. Learn to leverage constructive criticism to refine your work, experiment with diverse approaches, and ultimately achieve design excellence.\nBy the end of this course, you'll be able to: \n\n• Develop skills in creating visually appealing compositions using Adobe Illustrator.\n• Create logos and corporate symbols that effectively represent a brand.\n• Design brand identity materials, ensuring consistency across all design elements.\n• Complete a final project that demonstrates the ability to create cohesive visual design and branding materials for a video game using Adobe Illustrator.\n\nThis is an introduction course, intended for aspiring graphic designers who want to gain essential skills in Adobe Illustrator and learn how to create professional-quality logos and branding materials, graphic designers seeking to specialize in branding, and anyone wanting to learn how to visually represent brands effectively and create consistent brand messaging across various platforms. To succeed in this course, you should have basic literacy, familiarity with basic design principles, and access to Adobe Illustrator.",
+                    "This comprehensive UX/UI design course empowers you to create intuitive and engaging digital products. Starting with foundational interaction design principles, you'll learn to craft user-friendly flows and wireframes. Next, bring your ideas to life by learning wireframing and prototyping techniques in Figma. Then, gain a deeper understanding of UX/UI principles, creating aesthetically pleasing and functional interfaces that prioritize the user experience. Finally, refine your designs through effective client feedback and iteration, ensuring your final product meets both user needs and business goals. By the end, you'll be equipped to design exceptional user experiences from concept to polished prototype.\nBy the end of this course you'll be able to: \n\n• Recognize and apply interaction design principles to create user-friendly digital products.\n• Develop skills in creating wireframes and prototypes using Figma.\n• Apply UX/UI design principles to create visually appealing and functional interfaces.\n• Complete a final project demonstrating the ability to design a user-friendly digital interface.\n\nThis is an introduction course, intended for learners with a passion for art and design, graphic designers who want to expand their skillset and add UX/UI design to their repertoire, web developers who want to learn how to design user-centered interfaces that enhance the functionality and usability of websites and applications, or anyone passionate about creating great user experiences. To succeed in this course, you should have basic literacy, some familiarity with basic design principles, and access to Figma.",
+                    "This graphic design course empowers you to create impactful visuals across various mediums. You'll explore digital and print design techniques, learn to apply marketing principles, and refine your work through client feedback and iteration. By the end, you'll have the skills to design exceptional graphics for any project, from captivating social media ads to professional printed materials.\nBy the end of this module, you'll be able to: \n\n• Develop skills in creating digital and print media materials using Adobe Photoshop and Illustrator.\n• Design effective marketing materials, including web banners, social media graphics, and email templates.\n• Prepare files for print production, understanding printing techniques and specifications.\n• Complete a final project demonstrating the ability to design and produce digital and print media materials for a video game release.\n\nThis is an introduction course, intended for aspiring graphic designers who want to gain a comprehensive understanding of design principles and techniques for both digital and print media, graphic designers seeking to expand their expertise in digital and print media, and anyone wanting to create visually compelling designs, including designing for social media, websites, or printed brochures. To succeed in this course, you should have basic literacy, familiarity with basic design principles, and access to Adobe Photoshop and Adobe Illustrator.",
+                    "This comprehensive graphic design course empowers you to stay ahead of the curve, harnessing AI tools and creating a professional portfolio that showcases your talent. Analyze competitors, explore design trends, and complete a capstone project that enhances your designs for fictitious gaming company. By the end, you'll be equipped to navigate the design industry with confidence, leveraging AI for creative solutions, and presenting a polished portfolio to potential employers.\nThis is an introduction course, intended for aspiring graphic designers who want to gain a competitive edge by learning how to leverage AI tools in your design workflow, graphic designers seeking to expand their skills and stay up to date with the latest design trends and technologies, including generative AI, and anyone interested in the future of design. To succeed in this course, you should have basic literacy, familiarity with basic design principles, and access to Adobe Photoshop and Adobe Illustrator."
+                ],
+                "Modules Name": [
+                    "Fundamentals of Graphic Design",
+                    "Brand Identity and Vector Graphics",
+                    "Interaction Design and UX/UI Principles",
+                    "Digital and Print Media Design",
+                    "Designing with GenAI and Capstone Project"
+                ],
+                "Rating": 4.5,
+                "Similarity": 0.6353977918624878,
+                "Skills": "Adobe Illustrator, Game Design, Web Content Accessibility Guidelines, Usability, Graphic Design, Generative AI, Graphic and Visual Design, Photo Editing, Wireframing, User Interface and User Experience (UI/UX) Design, Adobe Photoshop, User Centered Design",
+                "Subcategory": "Marketing",
+                "Title": "Xbox Graphic Designer",
+                "Type": "Professional Certificate"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Coursera",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    ""
+                ],
+                "Modules Name": [
+                    "User Flow and Wireframing"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.6327788829803467,
+                "Skills": "User Research, User Interface (UI), User Centered Design, Usability, User Flows, Figma (Design Software), User Experience Design, Wireframing",
+                "Subcategory": "Design and Product",
+                "Title": "Flow Forward: Mastering User Journeys & Wireframing in Figma",
+                "Type": "Course"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Coursera Instructor Network",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This is a comprehensive course designed to provide foundational knowledge and practical skills in UI design. This course covers essential topics including the principles of UI design, the workflow of prototyping, and best practices in creating visually appealing and user-friendly interfaces."
+                ],
+                "Modules Name": [
+                    "UX Design: Research, Prototyping, Accessible Interactions"
+                ],
+                "Rating": 4.7,
+                "Similarity": 0.6148026585578918,
+                "Skills": "User Research, Interactive Design, Usability, Prototyping, User Experience Design, Web Content Accessibility Guidelines, Usability Testing, Persona (User Experience), Figma (Design Software), Mockups, User Centered Design, User Interface (UI) Design",
+                "Subcategory": "Design and Product",
+                "Title": "UX Design: Research, Prototyping, Accessible Interactions",
+                "Type": "Course"
+            }
+        ]
+    },
+    {
+        "input": {
+            "skill": [
+                "excel",
+                "power bi",
+                "data visualization"
+            ],
+            "category": [
+                "business intelligence"
+            ]
+        },
+        "recommendations": [
+            {
+                "Category": "Data Science",
+                "Description": "This course is part of Microsoft Power BI and Power Platform for Productivity Specialization",
+                "Duration": "1 - 3 Months",
+                "Institution": "Microsoft",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "In this module, you'll be introduced to using visualization and reports in Microsoft Power BI to present data to stakeholders.",
+                    "In this module, you will discover how to improve accessibility and user experience in reports.",
+                    "In this module, you'll be introduced to dashboards and how they differ from reports, as well as publishing and exporting reports.",
+                    "In this module, you'll be introduced to data analysis. You'll explore how to use visualizations and AI in Microsoft Power BI to perform an analysis of data.",
+                    "In this module, you will be assessed on the key skills covered in the Course. This module provides a summary of the course and reflects on the primary learning objectives. The module also contains the project for the course which encapsulates the learning into a practical whole.",
+                    ""
+                ],
+                "Modules Name": [
+                    "Creating Reports",
+                    "Navigation and Accessibility",
+                    "Bringing Data to the User",
+                    "Identifying Patterns and Trends",
+                    "Current Data Analysis and Visualization with Microsoft Power BI",
+                    "Final project and assessment: Data Analysis and Visualization with Power BI"
+                ],
+                "Rating": 4.7,
+                "Similarity": 0.7661244869232178,
+                "Skills": "Statistical Reporting, Data Visualization Software, Data Presentation, Power BI, Data Visualization, Data Analysis, Business Intelligence, Advanced Analytics, Data Storytelling, Dashboard, Interactive Data Visualization",
+                "Subcategory": "Data Analysis",
+                "Title": "Analysis and Visualization of Data with Power BI",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "",
+                "Duration": "1 - 3 Months",
+                "Institution": "Knowledge Accelerators",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Many of the same data management tools and mechanisms exist across both Microsoft Excel and Power BI. This means Excel users are uniquely positioned to transition to data modeling and visualization in Power BI! Using methods that will feel familiar, you can learn to use Power BI to make data-driven business decisions using large volumes of data. We will help you to build fundamental Power BI knowledge and skills, including: importing data from Excel and other locations into Power BI; understanding the Power BI environment and its three Views;  building beginner-to-moderate level skills for navigating the Power BI product; exploring influential relationships within datasets; designing Power BI visuals and reports; and building effective dashboards for sharing, presenting, and collaborating with peers in Power BI Service. Join us for the journey!",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "Modules Name": [
+                    "Introduction to Power BI",
+                    "Import and Clean Excel Data in Power BI",
+                    "Model and Visualize Data in Power BI",
+                    "Work with Different Types of Visualizations",
+                    "Work with Dashboards in Power BI Online",
+                    "Cumulative Assessment"
+                ],
+                "Rating": 4.5,
+                "Similarity": 0.7398014068603516,
+                "Skills": "Data Cleansing, Data Transformation, Interactive Data Visualization, Data Analysis, Exploratory Data Analysis, Dashboard, Power BI, Data Visualization, Business Intelligence, Key Performance Indicators (KPIs), Data Sharing, Data Modeling, Business Analytics, Data Manipulation, Data Import/Export, Microsoft Excel, Data Visualization Software, Data Presentation, Microsoft Power Platform",
+                "Subcategory": "Data Management",
+                "Title": "From Excel to Power BI",
+                "Type": "Course"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "Become a Power BI and Power Platform Expert. Boost Productivity, Automate Processes, and Gain Valuable Insights",
+                "Duration": "3 - 6 Months",
+                "Institution": "Microsoft",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Create data in Microsoft Excel and prepare it for data analysis. \nMake use of common formulas and functions in a worksheet. Â\nPrepare Excel data for analysis in Power BI using functions.",
+                    "How to recognize and use the key data analysis components of Microsoft Power BI.\nUnderstand a Power BI data analyst's skills, tasks, and tools.\nDescribe the different stages in the data analysis process that result in data-driven decisions.",
+                    "How to set up a data source and explain and configure storage modes in Power BI.\nHow to prepare for data modeling by cleaning and transforming data.\nHow to use profiling tools to identify data anomalies.\nHow to reference queries and dataflows and use the Advanced Editor to modify code.Â",
+                    "How to form a model using a Star Schema.\nHow to write calculations DAX to create elements and analysis in Power BI.\nHow to optimize performance in a Power BI model.",
+                    "How to add visualizations to reports and dashboards.\nHow to design accessible reports and dashboards.\nHow to use visualizations to perform data analysis.",
+                    "How to create compelling and cohesive reports and dashboards.\nHow to work in detail with specialist chart visualizations.\nHow to add elements such as videos, streaming data and QR codes to dashboards.",
+                    "This course portrays how Copilot can be leveraged in conjunction with Power BI to streamline process and enhance work outputs. It provides a general overview as well as detailed use case demonstrations for Power BI practitioners who want to augment their skills with Generative AI.",
+                    "Describe the components of Microsoft Power Platform, the business value for customers, & security of the technology\nDefine the basic concepts of the Dataverse and ways you can connect and customize data connections to Microsoft Power Platform applications\nDiscover how Power Apps empowers you to create applications tailored to your business needs, enhancing productivity & efficiency\nRecognize the value and capabilities of Power Apps & ways organizations leverage this technology to build simple applications for their business",
+                    "Construct and customize dynamic canvas apps to address specific business process challenges\nDesign model-driven apps using component-based architecture\nConfigure and secure PowerApps Portals for external users\nDevelop and implement automated application workflows using Microsoft Power Automate",
+                    "Explain the value and capabilities of Power Virtual Agents for building chatbot solutions\nDesign and deploy no-code chatbots using Power Virtual Agents"
+                ],
+                "Modules Name": [
+                    "Data for Analysis with Microsoft Excel",
+                    "Unlock the Power of Data with Power BI",
+                    "Data Extract, Transform, and Load in Power BI",
+                    "Modeling Data in Power BI",
+                    "Analysis and Visualization of Data with Power BI",
+                    "Creative Designing in Power BI",
+                    "Copilot for Power BI",
+                    "Introduction to Microsoft Power Platform",
+                    "Use Power Platform for Custom & Automated Solutions",
+                    "Power Virtual Agents"
+                ],
+                "Rating": 4.4,
+                "Similarity": 0.7304728031158447,
+                "Skills": "Power BI, Data Analysis Expressions (DAX), Microsoft Power Platform, Business Intelligence, Data Visualization, Dashboard, Microsoft Excel, Data Presentation, Excel Formulas, Data Transformation, Data Literacy, Spreadsheet Software",
+                "Subcategory": "Software Development",
+                "Title": "Microsoft Power BI and Power Platform for Productivity",
+                "Type": "Specialization"
+            },
+            {
+                "Category": "Data Science",
+                "Description": "This course is part of Microsoft Power BI and Power Platform for Productivity Specialization",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Microsoft",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This module introduces the learner to the role of a Data Analyst, key data analysis concepts and how data plays an important role in business. The learner is briefly introduced to Power BI as tool for data analysis.",
+                    "This module introduces the learner to data collection, data sources, the ETL process and the importance of evaluating data for analysis",
+                    "In this module, you will be assessed on the key skills covered in the Course."
+                ],
+                "Modules Name": [
+                    "Data analysis in business",
+                    "The right tools for the job",
+                    "Final project and assessment: Harnessing the power of data in Power BI"
+                ],
+                "Rating": 4.4,
+                "Similarity": 0.7298277020454407,
+                "Skills": "Data Storytelling, Data Cleansing, Power BI, Data-Driven Decision-Making, Business Intelligence, Data Literacy, Data Analysis, Data Visualization Software, Business Analytics, Data Collection, Data Transformation",
+                "Subcategory": "Data Analysis",
+                "Title": "Unlock the Power of Data with Power BI",
+                "Type": "Course"
+            },
+            {
+                "Category": "Data Science",
+                "Description": "Harness the power of Power BI for effective data-driven decisions and become an expert in data transformation, AI analytics, and interactive Dashboard creation for efficient data analysis and visualization.",
+                "Duration": "3 - 6 Months",
+                "Institution": "Edureka",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "Welcome to the Data Storytelling with Power BI course, where you'll embark on a journey to acquire practical expertise in data transformation and visualization. Leverage the potential of Power BI to craft narratives through structured data, leading to the discovery of more profound insights. Throughout this course, you'll explore the industry-specific applications of Power BI and delve into its various features and functionalities.\nBy the end of this course, you'll be able to:\n•\tExplain the different data sources present in Power BI Desktop.\n•\tDemonstrate the use of Power Query Editor to clean and transform data.\n•\tManipulate data with the DAX formula and depict stories by using different visualization \n        techniques. \n•\tApply Power BI Service features to elevate the quality of your Reports and implement Dashboards \n        on Power BI Service.\n•\tCreate Reports and Dashboards on Power BI service utilizing its prevalent features.\n•\tImplement Smart Narrative and Key Performance Indicators to enhance reports for a target \n        audience.\n\nThis course is designed for a diverse audience: freshers, data analyst, business analysts, business intelligence analyst and IT professionals who are looking to enhance their data analysis skills through Power BI. \n\nPrior experience with Microsoft Excel or spreadsheet applications can be beneficial when working with Power BI.\n\nEmbark on an educational voyage to master Microsoft Power BI and enhance your skills in creating efficient Reports and Dashboards using the Power BI ecosystem.",
+                    "Analyzing Data by using the AI analytical features offered by Power BI",
+                    "Connect AWS and Snowflake with Power BI and import data to be used in visualization",
+                    "Working with MS SQL Server and data connectivity with Power BI to visualize datasets.",
+                    "This course is designed for professionals who want to practice projects that follow industry standards. The course consists of two projects, one of which deals with designing databases in Snowflake and connecting them with Power BI for analysis, and the other focuses on managing inventory and forecasting trends, which assist in decision-making.\nBy the end of this course, you will be able to:\n1. Explain Snowflake cloud Data Platform\n2. Demonstrate the use of the Snowflake platform to store and manage data\n3. Apply Power BI Service features to elevate the quality of your Reports and implement Dashboards\n4. Create Paginated Reports and Dashboards on Power BI Service, utilizing its prevalent features\n\nThis long course is designed for Data Analyst, Data Administrator, and Business Analyst seeking to enhance their analytical and design skills.\n\nPrior experience with MS Excel and SQL is beneficial but not mandatory for this course. \n\nJoin us on this journey to enhance your decision making skills and elevate your analytical and design capabilities."
+                ],
+                "Modules Name": [
+                    "Learn Data Storytelling: Power BI Techniques",
+                    "Power BI for Data Science and Analytics",
+                    "Power BI Integration with AWS and Snowflake",
+                    "Data Connection and Functionalities in Power BI",
+                    "Power BI Capstone Project"
+                ],
+                "Rating": 4.3,
+                "Similarity": 0.7225461006164551,
+                "Skills": "Database Design, Power BI, Data Analysis Expressions (DAX), Transact-SQL, Business Intelligence, Dashboard, Data Presentation, AWS Identity and Access Management (IAM), Data Transformation, SQL, Analytical Skills, Data Analysis",
+                "Subcategory": "Data Analysis",
+                "Title": "Mastering Power BI for Data Analytics & Storytelling",
+                "Type": "Specialization"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "",
+                "Duration": "1 - 3 Months",
+                "Institution": "Edureka",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "In this module, you will explore the world of business intelligence and derive stories from data and present them to a targeted audience. You will also learn to identify and implement transformations in data for visualization with Power BI Desktop.",
+                    "In this module, you will learn to manipulate data with DAX formulas to create measures and columns, operate these transformations with the help of DAX functions, and create relationships to manage data.",
+                    "In this module, you will learn to create data visuals with the help of common charts and custom visuals and understand how they work. We will also learn about the best practices that are to be followed while building paginated reports and dashboards.",
+                    "In this module, you will learn about Power BI Service, make use of the features after publishing reports and dashboards on the Service interface, manage Smart Narrative, use Q & A to draw more insights from data, secure reports and dashboards with security roles, and observe data lineage.",
+                    "This module is designed to assess an individual on the various concepts and teachings covered in this course. Answer a comprehensive quiz which marks you as a learner who is confident in working with Power BI."
+                ],
+                "Modules Name": [
+                    "Data Modeling and Transformation",
+                    "Data Analysis Expression (DAX)",
+                    "Data Visualization",
+                    "Power BI Service",
+                    "Course Wrap Up and Assessment"
+                ],
+                "Rating": 4.6,
+                "Similarity": 0.7150760889053345,
+                "Skills": "Dashboard, Interactive Data Visualization, Data Presentation, Data Transformation, Data Storytelling, Data Analysis Expressions (DAX), Report Writing, Data Modeling, Power BI, Data Cleansing, Data Manipulation, Business Intelligence, Data Visualization Software, Data Import/Export, Microsoft Excel, Performance Reporting",
+                "Subcategory": "Data Management",
+                "Title": "Data Storytelling with Power BI",
+                "Type": "Course"
+            },
+            {
+                "Category": "Data Science",
+                "Description": "This course is part of Microsoft Power BI Data Analyst Professional Certificate",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Microsoft",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This module introduces essential Excel elements and techniques beginning with the creation and formatting of worksheets. It explores the Excel features that are useful when viewing large data blocks and explains how to create accurate calculations.",
+                    "This module introduces formulas and functions in Excel. It explores how these are important to data analysis and how these are used in business scenarios.",
+                    "The module introduces common functions that help prepare Excel data for analysis in tools such as Power BI.",
+                    "In this module, you will be assessed on the key skills covered in the Course."
+                ],
+                "Modules Name": [
+                    "Excel fundamentals",
+                    "Formulas and functions",
+                    "Preparing data for analysis using functions",
+                    "Final project and assessment:  Preparing data for analysis with Microsoft Excel"
+                ],
+                "Rating": 4.7,
+                "Similarity": 0.7147973775863647,
+                "Skills": "Timelines, Data Analysis, Spreadsheet Software, Power BI, Data Processing, Microsoft Excel, Data Cleansing, Pivot Tables And Charts, Excel Formulas, Data Manipulation",
+                "Subcategory": "Data Analysis",
+                "Title": "Preparing Data for Analysis with Microsoft Excel",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "This course is part of Mastering Power BI for Data Analytics & Storytelling Specialization",
+                "Duration": "1 - 3 Months",
+                "Institution": "Edureka",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "In this module, you will explore the world of business intelligence and derive stories from data and present them to a targeted audience. You will also learn to identify and implement transformations in data for visualization with Power BI Desktop.",
+                    "In this module, you will learn to manipulate data with DAX formulas to create measures and columns, operate these transformations with the help of DAX functions, and create relationships to manage data.",
+                    "In this module, you will learn to create data visuals with the help of common charts and custom visuals and understand how they work. We will also learn about the best practices that are to be followed while building paginated reports and dashboards.",
+                    "In this module, you will learn about Power BI Service, make use of the features after publishing reports and dashboards on the Service interface, manage Smart Narrative, use Q & A to draw more insights from data, secure reports and dashboards with security roles, and observe data lineage.",
+                    "This module is designed to assess an individual on the various concepts and teachings covered in this course. Answer a comprehensive quiz which marks you as a learner who is confident in working with Power BI."
+                ],
+                "Modules Name": [
+                    "Data Modeling and Transformation",
+                    "Data Analysis Expression (DAX)",
+                    "Data Visualization",
+                    "Power BI Service",
+                    "Course Wrap Up and Assessment"
+                ],
+                "Rating": 4.7,
+                "Similarity": 0.7094465494155884,
+                "Skills": "Interactive Data Visualization, Data Analysis Expressions (DAX), Data Manipulation, Data Cleansing, Microsoft Excel, Business Reporting, Data Modeling, Data Visualization Software, Data Presentation, Data Storytelling, Business Intelligence, Power BI, Data Transformation, Dashboard",
+                "Subcategory": "Data Management",
+                "Title": "Learn Data Storytelling: Power BI Techniques",
+                "Type": "Course"
+            },
+            {
+                "Category": "Data Science",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Coursera Instructor Network",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "In this course, you'll explore the core functions and real-world applications of Power BI in industries like finance and logistics. Through hands-on experience with tools like Microsoft Copilot and ChatGPT, you'll learn to connect, model, and visualize data; automate complex DAX calculations; and build interactive dashboards. You'll also apply best practices for sharing insights via the Power BI Service, empowering you to make data-driven decisions and drive business impact."
+                ],
+                "Modules Name": [
+                    "Microsoft Copilot for Power BI: AI-Powered Report Insights"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.7028490304946899,
+                "Skills": "ChatGPT, Power BI, Interactive Data Visualization, Data Cleansing, Data Modeling, Data Integration, Data Analysis Expressions (DAX), Microsoft Copilot, Microsoft Excel, Dashboard, Data-Driven Decision-Making, Data Manipulation, Data Transformation, Data Visualization Software, Business Intelligence",
+                "Subcategory": "Data Analysis",
+                "Title": "Microsoft Copilot for Power BI: AI-Powered Report Insights",
+                "Type": "Course"
+            },
+            {
+                "Category": "Computer Science",
+                "Description": "This course is part of Microsoft Power BI and Power Platform for Productivity Specialization",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Microsoft",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "This course portrays how Copilot can be leveraged in conjunction with Power BI to streamline process and enhance work outputs. It provides a general overview as well as detailed use case demonstrations for Power BI practitioners who want to augment their skills with Generative AI."
+                ],
+                "Modules Name": [
+                    "Copilot for Power BI"
+                ],
+                "Rating": 4.5,
+                "Similarity": 0.6962259411811829,
+                "Skills": "Prompt Engineering, Data Analysis Expressions (DAX), Generative AI, Data Storytelling, Business Intelligence, Interactive Data Visualization, Data Analysis, Microsoft Copilot, Power BI, Artificial Intelligence",
+                "Subcategory": "Software Development",
+                "Title": "Copilot for Power BI",
+                "Type": "Course"
+            }
+        ]
+    },
+    {
+        "input": {
+            "skill": [
+                "seo",
+                "digital advertising",
+                "google ads"
+            ],
+            "category": [
+                "marketing"
+            ]
+        },
+        "recommendations": [
+            {
+                "Category": "Business",
+                "Description": "",
+                "Duration": "3 - 6 Months",
+                "Institution": "University of Colorado Boulder",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Identify key digital advertising types in digital advertising\nUnderstand key terms and metrics in digital advertising\nComprehend the advertising lumascape, including: advertising agencies, DSPs, DMPs, and SSPs.Â\nBe critical of pros and cons of various digital platforms, and how to be critical of claims made by demand side platforms",
+                    "Understand why search can be a powerful part of any marketing campaign\nPlan a search campaign, including: setting economic goals, defining targeting parameters, and aligning a campaign with business goals\nBuild a search campaign from start to ongoing optimization\nLeverage Google's tools including optimization score, campaign planner, and automated bidding",
+                    "Identify social media advertising types that are likely to succeed\nUnderstand the different types of social media ads\nImplement effective social media targeting parametersto match desired audiences\nExecute social media advertising campaigns",
+                    "Execute native advertising campaigns in Taboola\nHow to target native ad campaigns to desired audiences\nUse free tools to actively gather news coverage for native advertising\nDevelop content seeding strategies through incentive programs"
+                ],
+                "Modules Name": [
+                    "Introduction to Digital Advertising",
+                    "Search and Display Advertising",
+                    "Social Media Advertising",
+                    "Programmatic Advertising"
+                ],
+                "Rating": 4.6,
+                "Similarity": 0.7512185573577881,
+                "Skills": "Digital Advertising, Social Media, Google Ads, Media Planning, Pay Per Click Advertising, Web Analytics, Advertising Campaigns, Search Engine Optimization, Online Advertising, Keyword Research, Contextual Advertising, Social Media Marketing",
+                "Subcategory": "Marketing",
+                "Title": "Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising",
+                "Type": "Specialization"
+            },
+            {
+                "Category": "Business",
+                "Description": "",
+                "Duration": "1 - 3 Months",
+                "Institution": "Illinois Tech",
+                "Level": "Advanced",
+                "Modules Description": [
+                    "Welcome to MAX501 Digital Marketing! Module 1 introduces digital marketing, its importance in the modern business landscape, and the fundamental concepts and strategies used in it.",
+                    "This module covers the principles of effective web design, the importance of landing pages, and best practices for optimizing web pages for user experience and conversion.",
+                    "This module focuses on web analytics, covering the importance of data-driven decision-making, key metrics, and tools used for analyzing website performance.",
+                    "This module covers search engine optimization (SEO) strategies, both on-site and off-site, to improve website visibility and ranking on search engines.",
+                    "This module explains the fundamentals of PPC advertising, including how to create and manage effective PPC campaigns.",
+                    "This module covers display advertising, including types of display ads, targeting strategies, and techniques for creating effective display ad campaigns.",
+                    "This module explores email marketing, including strategies for building email lists, creating engaging email campaigns, and measuring email campaign performance.",
+                    "This module covers social media marketing, including strategies for creating effective social media campaigns, engaging with audiences, and measuring social media performance.",
+                    "This module contains the summative course assessment that has been designed to evaluate your understanding of the course material and assess your ability to apply the knowledge you have acquired throughout the course."
+                ],
+                "Modules Name": [
+                    "Module 1: Digital Marketing Foundations",
+                    "Module 2: Web Design & Landing Pages",
+                    "Module 3: Web Analytics",
+                    "Module 4: Search Engine Optimization (On-site and Off-site)",
+                    "Module 5: Paid Search",
+                    "Module 6: Display Advertising",
+                    "Module 7: Email Marketing",
+                    "Module 8: Social Media Marketing",
+                    "Summative Course Assessment"
+                ],
+                "Rating": 4.6,
+                "Similarity": 0.7129053473472595,
+                "Skills": "Search Engine Optimization, Campaign Management, Social Media Campaigns, Social Media, Web Design and Development, Marketing Strategies, Web Analytics, Paid media, Marketing, Social Media Marketing, Online Advertising, Marketing Analytics, Web Analytics and SEO, Pay Per Click Advertising, Google Analytics, Search Engine Marketing, Google Ads, Digital Advertising, Email Marketing, Digital Marketing",
+                "Subcategory": "Marketing",
+                "Title": "Digital Marketing",
+                "Type": "Course"
+            },
+            {
+                "Category": "Social Sciences",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "University of Maryland, College Park",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "Welcome to Week 1 of your course. Each week will have a similar format. The weekly page will first provide an overview of the content we will cover. As you work your way down the page, you will see that the content is divided into sections. Navigate through each lesson on the page to complete the assigned work. Work your way through each item in the lessons to watch videos, read assigned articles, participate in discussions, and complete assignments. You should expect to spend at least 30-minutes in total watching seven short videos. In addition to the videos and readings, you will have practice questions, a few activities, and a scenario at the end of the week. These activities and scenarios are essential to helping you learn and apply the skills you will need to demonstrate and master Digital Marketing Analytics.",
+                    "Welcome to Week 2! Many managerial decisions are made based on professional knowledge and intuition, but often this knowledge is not sufficient enough to make the optimal decision. That's where testing comes in. Next, we will talk about Recommendation Systems. You may not realize it, but your internet experience is defined by recommendation systems. From music, games, videos, films, and what to buy, recommendation systems predict your preferences to suggest products or services that are likely to be of interest to you.",
+                    "Welcome to Week 3! In this Week, we're going to introduce machine learning and the paradigm shift driven by digital, social, and mobile marketing.  We will also look at how marketers use rich data and enhanced analytical capacity to move from qualitative to quantitative analytical data to better understand and market to consumers.\n\nYou should expect to spend at least 30-minutes in total watching five short videos. In addition to the videos and readings, you will have practice questions, a few activities, and a scenario at the end of the module. These activities and scenarios are essential to help you learn and apply the skills you will need to demonstrate and master Digital Marketing Analytics.",
+                    "Welcome to Week 4! In this Week, we're going to introduce Big Data and Artificial Intelligence.  We'll also look at how marketers use rich data and enhanced analytical capacity to move from qualitative to quantitative analytical data, from data to big data, and from machine learning to deep learning AI to better understand and market to consumers.\n\nYou should expect to spend at least 30-minutes in total watching five short videos. In addition to the videos and readings, you will have practice questions, a few activities, and a scenario at the end of the module. These activities and scenarios are essential to help you learn and apply the skills you will need to demonstrate to master Digital Marketing Analytics."
+                ],
+                "Modules Name": [
+                    "SEO, Paid Search, and Web Analytics",
+                    "Online Testing and Recommendation Systems",
+                    "Machine Learning",
+                    "Big Data and Artificial Intelligence"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.7084782123565674,
+                "Skills": "Digital Advertising, Web Analytics and SEO, Machine Learning, Marketing Analytics, Marketing Automation, Search Engine Optimization, Pay Per Click Advertising, Web Analytics, Digital Marketing, Online Advertising, Paid media, Google Analytics, Analytics, Applied Machine Learning, Artificial Intelligence and Machine Learning (AI/ML), A/B Testing, Marketing Effectiveness, Search Engine Marketing, Big Data",
+                "Subcategory": "Education",
+                "Title": "Digital Marketing 2",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "This course is part of multiple programs",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Simplilearn",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This comprehensive SEM course will equip you with the skills needed to excel in digital marketing. You'll learn to create, optimize, and manage SEM campaigns, driving targeted traffic and maximizing visibility. \n\nGuided by industry experts, you'll work on real-world examples and hands-on activities to develop practical SEM skills, preparing you for success in the digital marketing field.",
+                    "This comprehensive SEM course will equip you with the skills needed to excel in digital marketing. You'll learn to create, optimize, and manage SEM campaigns, driving targeted traffic and maximizing visibility. \n\nGuided by industry experts, you'll work on real-world examples and hands-on activities to develop practical SEM skills, preparing you for success in the digital marketing field."
+                ],
+                "Modules Name": [
+                    "Search Engine Marketing",
+                    "Assessment for Search Engine Marketing"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.6846814155578613,
+                "Skills": "Paid media, Google Analytics, Search Engine Optimization, Marketing Automation, Target Audience, Online Advertising, Bidding, Keyword Research, Advertising Campaigns, Marketing, Google Ads, Digital Marketing, Advertising, Digital Advertising, Campaign Management, Search Engine Marketing",
+                "Subcategory": "Marketing",
+                "Title": "Search Engine Marketing",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "This course is part of Foundations of Digital Marketing Specialization",
+                "Duration": "1 - 3 Months",
+                "Institution": "O.P. Jindal Global University",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "In this module, you will get a clear picture of a customer's purchase journey in the digital environment and understand how digital environment businesses are operating. As more and more potential and actual customers are connected to social media platforms and spend a considerable amount of time on the internet, it is important to understand that reality; accordingly, you will be introduced to various digital marketing channels available for businesses. By the end of this module, you will be able to understand various functionalities of digital advertising platforms and create a digital marketing plan, as well as the legal and ethical issues that you need to keep in mind.",
+                    "This module is designed to guide you through the process of planning a digital marketing program for your brand. It covers a range of important topics, including popular digital media marketing models used by professionals, the digital marketing planning process, essential skills required for a digital marketing manager, and ethical and legal considerations in digital marketing. By the end of this module, you will have a deeper understanding of how to create an effective digital marketing strategy and be equipped with the necessary knowledge and skills to execute it successfully.",
+                    "This assessment is a graded quiz based on the modules covered this week.",
+                    "This module will help you to understand the various platforms through which businesses can create digital content, experiences, and touchpoints for potential and existing customers. Specifically, you will be able to understand the importance of paid and organic search results for businesses. You will be introduced to various types of display advertising.",
+                    "This module will provide you with a comprehensive understanding of the different social media channels that can be utilized for digital marketing. You will learn about programmatic advertising and the various platforms that are available for scheduling digital marketing campaigns for your brand. Additionally, this module will address the challenges that digital marketers commonly face. For instance, you will explore topics such as viewability optimization and metrics to measure viewability, reasons for missing out on targeted reach, the impact of ad blockers on browsers, and ad frauds that may be used to sabotage a competitor's advertising efforts. By the end of this module, you will have a solid grasp of the social media landscape and the tools available to help you overcome common digital marketing obstacles.",
+                    "This assessment is a graded quiz based on the modules covered this week.",
+                    "This module is designed to help you understand the significance of ranking on the first page of search engine results and the strategies you can use to achieve this, both organically and through advertising. Specifically, you will learn about search engine advertising on Google, including various ad auction models and factors that determine Ad Rank. Additionally, you will be introduced to the latest trends in search engine advertising, such as Google Smart Campaigns, tracking invalid clicks, and optimizing conversion rates. Moreover, this module will guide you on how to shift toward a more customer-centric advertising approach. By the end of this module, you will have a comprehensive understanding of how to effectively utilize search engine advertising to increase your website's visibility, drive traffic, and generate sales.",
+                    "In this module, you will gain an understanding of how search engines work and why they are important for businesses. You will learn about the various phases of search engine optimization (SEO) and how it can be a long-term digital marketing strategy for your brand. Additionally, you will acquire the skills to audit and identify areas of concern on your brand's website that may be negatively affecting its performance on the search engine results page (SERP). By the end of this module, you will be able to implement effective SEO tactics to boost your website's visibility and ultimately drive more traffic and sales to your business.",
+                    "This assessment is a graded quiz based on the modules covered this week.",
+                    "This module is designed to teach you about web analytics, providing you with the skills to analyze various types of data and create acquisition-attribution models. Additionally, you will learn how to interpret experiential, behavioral, and outcome analytics data and translate it into meaningful insights. Furthermore, this module will guide you on how to utilize the impact matrix to create an actionable marketing plan for your brand. By the end of this module, you will be equipped with the knowledge and skills to effectively use web analytics to track and measure your website's performance, gain insights into your audience's behavior, and make data-driven decisions to optimize your digital marketing strategy.",
+                    "This module aims to introduce you to the latest advancements in digital marketing, including voice search, beacon technology, chatbots, and micro-moment marketing. You will learn how to leverage these technologies to attract modern tech-savvy customers and stay ahead of the competition. Specifically, you will gain knowledge of the latest trends in digital marketing, such as chatbots, virtual reality, and augmented reality. Additionally, this module will guide you on how to effectively use voice search, beacon technology, and micro-moment marketing to engage your target audience and drive conversions. By the end of this module, you will have a deep understanding of the latest technologies and trends in digital marketing and how to use them to your advantage to stay relevant in the rapidly evolving digital landscape.",
+                    "This assessment is a graded quiz based on the modules covered this week."
+                ],
+                "Modules Name": [
+                    "Getting Started Digital Marketing Channels",
+                    "Process of Planning a Digital Marketing Program",
+                    "Weekly Summative Assessment: Digital Marketing Channels and Process of Planning a Digital Marketing Program",
+                    "The World of Display Advertising",
+                    "Social Media Channels and Programmatic Advertising",
+                    "Weekly Summative Assessment: The World of Display Advertising, Social Media Channels, and Programmatic Advertising",
+                    "Search Engine Advertising",
+                    "Search Engine Optimization",
+                    "Weekly Summative Assessment: Search Engine Advertising and  Search Engine Optimization",
+                    "Digital Analytics and the Impact Matrix",
+                    "Emerging Technologies in Digital Marketing",
+                    "Weekly Summative Assessment: Digital Analytics, Impact Matrix, and Emerging Technologies in Digital Marketing"
+                ],
+                "Rating": 4.3,
+                "Similarity": 0.6841621398925781,
+                "Skills": "Digital Advertising, Search Engine Marketing, Emerging Technologies, Social Media Marketing, Web Analytics, Marketing Analytics, Google Ads, Social Media, Search Engine Optimization, Marketing Planning, Advertising, Blogs, Google Analytics, Digital Marketing, Paid media, Marketing Strategies, Online Advertising, Web Analytics and SEO, Keyword Research, Marketing Channel",
+                "Subcategory": "Marketing",
+                "Title": "Digital Marketing Analytics",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "",
+                "Duration": "1 - 3 Months",
+                "Institution": "Amazon Ads",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This module covers both general digital marketing terminology as well as the basics of Amazon Ads solutions, with an emphasis on display advertising. Topics include an introduction digital advertising concepts and Amazon Ads, understanding audience solutions for display advertising, measuring display advertising campaigns, and reaching audiences across the customer journey.",
+                    "This module builds proficiency in Amazon retail programs. Topics include differentiating among types of selling partners, understanding Amazon fulfillment solutions, building familiarity with retail concepts through selling on Amazon.com, and navigating the basics of Seller Central and Vendor Central.",
+                    "This module dives deeper on the topics covered in week 2, and will help learners apply them across different advertising strategies. Topics include optimizing product detail pages for retail readiness, driving brand discoverability through Amazon growth levers, expanding to international marketplaces, fostering customer loyalty through promotions, and planning with retail insights and analytic tools.",
+                    "This module will show you how to use sponsored ads effectively. You will be introduced to common terms, features, and functionality that you can use to help drive advertising effectiveness.",
+                    "Analyzing campaign performance is an important part of making adjustments to improve future campaigns. In this module, you'll learn about available metrics and reporting tools and how to use them to assess your sponsored ad campaigns. Then, you'll learn how to make strategic adjustments to your campaign to help improve performance. You will understand what insights are most impactful and how to make changes to your targeting, bidding, and budgeting strategies."
+                ],
+                "Modules Name": [
+                    "Amazon Advertising Foundations",
+                    "Retail Media",
+                    "Advanced Retail Media",
+                    "Learn the fundamentals of Sponsored Ads",
+                    "Sponsored Ads Metrics, Reporting, and Optimization"
+                ],
+                "Rating": 4.9,
+                "Similarity": 0.6825610399246216,
+                "Skills": "E-Commerce, Promotional Strategies, Retail Sales, Bidding, Advertising, Online Advertising, Target Audience, Performance Analysis, Digital Marketing, Brand Awareness, Paid media, Campaign Management, Brand Loyalty, Digital Advertising, Advertising Campaigns",
+                "Subcategory": "Marketing",
+                "Title": "Foundations of Retail Media",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "This course is part of Strategic Digital Marketing Channels - SEO & SEM Specialization",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Simplilearn",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This SEO program offers a strong grasp of the basics of SEO and search engine optimization, designed to equip you with essential skills in digital marketing. Learn about the evolution of search engines, their processes, and components. Understand how search engines work and the role of web directories. Dive into SEO, its advantages, barriers, and types, and enhance your digital marketing strategies. Industry experts will guide you with hands-on activities and examples that simulate common SEO tasks, helping you build your skills and prepare for the job market. Guided by industry experts, you'll engage in hands-on activities and real-world examples that simulate common SEO tasks, building practical skills to prepare you for the job market.",
+                    "This SEO program offers a strong grasp of the basics of SEO and search engine optimization, designed to equip you with essential skills in digital marketing. Learn about the evolution of search engines, their processes, and components. Understand how search engines work and the role of web directories. Dive into SEO, its advantages, barriers, and types, and enhance your digital marketing strategies. \n\nIndustry experts will guide you with hands-on activities and examples that simulate common SEO tasks, helping you build your skills and prepare for the job market. \n\nGuided by industry experts, you'll engage in hands-on activities and real-world examples that simulate common SEO tasks, building practical skills to prepare you for the job market."
+                ],
+                "Modules Name": [
+                    "Search Engine Optimization",
+                    "Assessment for Search Engine Optimization"
+                ],
+                "Rating": 4.5,
+                "Similarity": 0.6779872179031372,
+                "Skills": "Keyword Research, Web Analytics and SEO, Content Creation, Content Strategy, Google Analytics, Digital Marketing, User Experience, Information Architecture, Google Ads, Search Engine Optimization",
+                "Subcategory": "Marketing",
+                "Title": "Search Engine Optimization",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "Master SEO & SEM for Strategic Brand Growth",
+                "Duration": "1 - 3 Months",
+                "Institution": "Simplilearn",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Understand types, personalization, and analytics in behavioral marketing.\nCreate buyer personas and set strategic goals.\nEnhance engagement, conversions, and ROI using the RACE Framework.\nImprove retention and lifetime value through CLM techniques.",
+                    "Master SEO fundamentals and processes\nImplement effective on-page and off-page SEO\nUtilize Google tools like My Business and Analytics\nDevelop link-building and sitemap management skills",
+                    "Master SEM fundamentals and understand SEM vs. SEO.\nOptimize Google Ads campaigns for better ROI.\nImplement advanced targeting and remarketing strategies.\nUtilize Google Ads tools like Performance Max and Universal App Campaigns.",
+                    "Understand digital marketing fundamentals, history, and key channels.\nDifferentiate between digital and traditional marketing, and evaluate their ROI.\nImplement the 4Ps, SAVE Framework, and use Mintzberg's 5Ps with PESTLE and SWOT.\nLeverage technology in marketing communications, and analyze influencer and video marketing."
+                ],
+                "Modules Name": [
+                    "Behavioral Marketing",
+                    "Search Engine Optimization",
+                    "Search Engine Marketing",
+                    "Digital Marketing Landscape"
+                ],
+                "Rating": 4.8,
+                "Similarity": 0.6739510297775269,
+                "Skills": "Growth Strategies, Google Ads, Digital Advertising, Campaign Management, Google Analytics, Marketing, Advertising Campaigns, Online Advertising, Marketing Automation, Customer Acquisition Management, Marketing Strategies, Social Media Marketing",
+                "Subcategory": "Leadership and Management",
+                "Title": "Strategic Digital Marketing Channels - SEO & SEM",
+                "Type": "Specialization"
+            },
+            {
+                "Category": "Business",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Goldman Sachs",
+                "Level": "Mixed",
+                "Modules Description": [
+                    "In this course, you will consider what is needed in an effective digital marketing campaign. You will develop a practical understanding of planning a digital marketing campaign and how to use paid, earned and owned media approaches within a campaign. By the end of this course, you will be able to effectively plan and measure digital marketing approaches in your business opportunities."
+                ],
+                "Modules Name": [
+                    "Boost your Digital Marketing: Planning Social Media Campaigns"
+                ],
+                "Rating": 4.7,
+                "Similarity": 0.6702395081520081,
+                "Skills": "Campaign Management, Analytics, Search Engine Marketing, Owned Media, Social Media Marketing, Digital Marketing, Content Marketing, Paid media, Marketing Planning, Social Media Campaigns, Digital Media Strategy, Earned Media, Online Advertising, Marketing Strategy and Techniques, Marketing Design, Pay Per Click Advertising",
+                "Subcategory": "Marketing",
+                "Title": "Digital Marketing Strategy with Goldman Sachs 10,000 Women",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Amazon Ads",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This module will measure your proficiency in strategically leveraging Amazon Ads solutions toward meeting campaign goals and day-to-day tasks in strategy and planning roles. Topics include campaign planning using audience tools, using retail insights to make decisions on campaign strategy, and identifying strategies to meet both long and short-term goals.",
+                    "This module builds on the topics learned in module 1, focused on more advanced campaign strategy, reporting, and optimization for sponsored ads, Amazon DSP, and cross-product campaigns. Topics include campaign goals and metrics, retail insights, cross-product strategy, and planning for key shopping moments throughout the year.",
+                    "This module focuses on Amazon video ads offerings. Topics include an introduction to video ads, how to incorporate video into your advertising portfolio, video ads audiences, and video ads reporting and measurement.",
+                    "Sponsored ads can help ensure you engage customers at every stage of their shopping journey. In this activity, you will optimize a Sponsored Brands campaign for a key shopping period. First, you will read a client brief. Then, using this client brief, you will develop an advertising strategy for a sponsored ads campaign. You'll build your recommendations around the brand's advertising goals and the best practices you've learned about in the course. As you complete this activity, we will provide you \"example\" answers as feedback. These may not include all the possible answers. The feedback is there to give you an idea of what could be correct and the quality expected from your work. All details about Organique and any campaign performance are fictional and intended for educational purposes only."
+                ],
+                "Modules Name": [
+                    "Campaign Planning",
+                    "Campaign optimization",
+                    "Video Ads",
+                    "Capstone Project"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.6612251996994019,
+                "Skills": "Paid media, Online Advertising, Target Audience, Digital Advertising, Marketing Planning, Consumer Behaviour, Content Performance Analysis, Keyword Research, Brand Awareness, Campaign Management, Promotions and Campaigns, Performance Reporting, Goal Setting, Advertising Campaigns, Customer Insights, Media Planning, Advertising, Data-Driven Decision-Making, Advertising Sales",
+                "Subcategory": "Marketing",
+                "Title": "Campaign Planning and Optimization",
+                "Type": "Course"
+            }
+        ]
+    },
+    {
+        "input": {
+            "skill": [
+                "cloud computing",
+                "aws",
+                "devops"
+            ]
+        },
+        "recommendations": [
+            {
+                "Category": "Information Technology",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Amazon Web Services",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "In this course, you will learn the benefits and technical concepts of Amazon DevOps Guru. If you are new to the service, you will learn how to start using DevOps Guru through a demonstration using the AWS Management Console."
+                ],
+                "Modules Name": [
+                    "Amazon DevOps Guru Getting Started"
+                ],
+                "Rating": 4.4,
+                "Similarity": 0.7789270877838135,
+                "Skills": "DevOps, Application Deployment, Amazon CloudWatch, Amazon Web Services, Devops Tools",
+                "Subcategory": "Networking",
+                "Title": "Amazon DevOps Guru Getting Started",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "",
+                "Duration": "1 - 3 Months",
+                "Institution": "Illinois Tech",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Welcome to Cloud: Infrastructure as a Service! This module is the beginning of the journey into Infrastructure as a Service (IaaS) and starts by exploring terminology used in cloud computing, the key components of IaaS and a high-level overview of the top three providers offerings.",
+                    "There are three key concepts in cloud computing – Virtualization/Compute, Networking, and Storage.  We take some time to dig deeper into each of these concepts and discuss the relationship of each to the cloud computing model.",
+                    "Cloud computing is a game changer in terms of speed, automation, and efficiency when it comes to developing software.  We will cover concepts that are only available in the cloud computing model and discuss why these concepts are a core component of modern software development.",
+                    "Migrating workloads to the cloud take planning and there will likely be infrastructure that continues to exist in the enterprise.  This module explores how to plan for a cloud migration, as well as a discussion about pricing models – using AWS as a sample model.",
+                    "The key to a successful cloud computing implementation is the ability to manage and monitor cloud resources.  We explore a few key resources to accomplish this along with a discussion of the importance of monitoring.",
+                    "Security is a complex subject, and is a conversation that happens throughout the cloud computing model.  We explore the threats to cloud computing along with an overview of the various products that help protect cloud computing resources.  We take a look at a concept called \"the Shared Responsibility Model\" which is platform agnostic, but we review the model as described by AWS.",
+                    "There are many inherent components of resiliency built into cloud computing, but understanding their nuance and knowing how to leverage them are key to the development of a solid business contingency plan. We look at a case study and various solutions provided by AWS.",
+                    "Building out capability in the cloud requires a shift in thinking.  This shift comes in the form of understanding how cloud native applications work and can be leveraged.  We look at some real world examples of how large businesses are leveraging IaaS to deliver services to their customers.",
+                    "This module contains the summative course assessment that has been designed to evaluate your understanding of the course material and assess your ability to apply the knowledge you have acquired throughout the course."
+                ],
+                "Modules Name": [
+                    "Module 1: Introduction to Infrastructure as a Service (IaaS)",
+                    "Module 2: Virtualization, Containers, Networking and Storage in the Cloud",
+                    "Module 3: DevOps, Continuous Integration/Delivery, Serverless Computing",
+                    "Module 4: Cloud Migration and Cost Management",
+                    "Module 5: Management, Monitoring and Logging",
+                    "Module 6: Security in the Cloud",
+                    "Module 7: Disaster Recovery and Business Continuity",
+                    "Module 8: Cloud-native Applications, Examples and Course Recap",
+                    "Summative Course Assessment"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.7448605298995972,
+                "Skills": "Software Development, Cloud-Native Computing, Infrastructure As A Service (IaaS), CI/CD, Cloud Infrastructure, Amazon Web Services, Cloud Storage, Scalability, Disaster Recovery, Cloud Applications, Cloud Computing, Business Continuity, Virtualization, Cloud Security, Cost Management, DevOps",
+                "Subcategory": "Cloud Computing",
+                "Title": "Cloud: Infrastructure as a Service - Bachelor's",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "This course is part of Building Cloud Computing Solutions at Scale Specialization",
+                "Duration": "1 - 3 Months",
+                "Institution": "Duke University",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This week, you will learn how to access the free tiers of three Cloud environments. You will then have an opportunity to review the details of the final project in this course: Building a Hugo Static Website that is Continuously Deployed using AWS Code Build and AWS S3 Static Hosting. Each week, you will learn and build upon key Cloud development skills to prepare you for this final course project.",
+                    "Getting started with a good plan is the most challenging part of building software. Before we dive into the technical aspects of Cloud development, let's spend some time discussing strategies for effective technical communication. This week, you will learn strategies for expressing thoughts effectively in a technical forum in a digitally native way, constructing effective technical discussions that enhance discussions and provide reusable documentation and explaining successful techniques for teamwork in technical projects. You will apply this by creating a project plan for the Final Course Project. This project plan includes a spreadsheet, a GitHub project and a Trello board.",
+                    "This week, you will learn how to build continuous delivery pipelines and apply the essential practices of continuous integration in Cloud onboarding. These pipelines use both Cloud-native build servers as well as the popular 3rd party SaaS build server: GitHub Actions. Additionally you build Continuous Delivery Pipelines in multiple Cloud platforms (AWS, Azure, and GCP).",
+                    "This week, you will learn about the different types of Cloud service models. These models include: Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Serverless. You will apply this knowledge by building multiple types of websites: Static, serverless, virtualized and PaaS.",
+                    "This week, you will learn DevOps and how to apply the principles of DevOps to projects you work on. Then, you will examine the shared practices of software development and IT operations using DevOps. Finally, you will utilize Infrastructure as Code (IaC)  to manage Cloud Infrastructure and develop continuous delivery pipelines."
+                ],
+                "Modules Name": [
+                    "Getting Started with Cloud Computing Foundations",
+                    "Developing Effective Technical Communication",
+                    "Exploring Cloud Onboarding",
+                    "Evaluating the Cloud Service Model",
+                    "Applying DevOps Principles"
+                ],
+                "Rating": 4.5,
+                "Similarity": 0.7417736649513245,
+                "Skills": "Amazon Web Services, CI/CD, GitHub, Cloud Infrastructure, Agile Software Development, Cloud Computing, Continuous Delivery, Platform As A Service (PaaS), Infrastructure as Code (IaC), Software Development Methodologies, Technical Communication, DevOps, Serverless Computing, Infrastructure As A Service (IaaS), Software Development",
+                "Subcategory": "Cloud Computing",
+                "Title": "Cloud Computing Foundations",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "This course is part of Building Cloud Computing Solutions at Scale Specialization",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Duke University",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "This week, you will learn about the methodologies involved in Data Engineering. You will also learn to evaluate best practices for dealing with the end of Moore's Law, develop distributed systems that apply software engineering best practices and evaluate best practices for implementing solutions with Big Data. You will apply these practices to build a GPU programming project using Numba and the CUDA SDK.",
+                    "This week, you will learn what Data Engineering is and how to use software engineering best practices in Data Engineering. You will then apply this knowledge by building a command-line data processing tool.",
+                    "This week, you will learn serverless data engineering techniques and data governance best practices. You will then apply this knowledge by building a serverless Data Engineering system.",
+                    "This week, you will learn about key Data Engineering tasks including ETL, Cloud Databases and Cloud Storage. You will then apply this knowledge by building a serverless AWS lambda function that labels an image using the AWS Rekognition API."
+                ],
+                "Modules Name": [
+                    "Getting Started with Cloud Data Engineering",
+                    "Examining Principles of Data Engineering",
+                    "Building Data Engineering Pipelines",
+                    "Applying Key Data Engineering Tasks"
+                ],
+                "Rating": 4.1,
+                "Similarity": 0.7368268966674805,
+                "Skills": "Data Pipelines, Rust (Programming Language), Cloud-Native Computing, Data Governance, Amazon Web Services, Command-Line Interface, Unix Commands, Data Processing, Cloud Storage, Serverless Computing, Big Data, Software Engineering, Google Cloud Platform, Continuous Integration, Distributed Computing, Cloud Computing, Extract, Transform, Load, Cloud Technologies, Python Programming",
+                "Subcategory": "Cloud Computing",
+                "Title": "Cloud Data Engineering",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "This course is part of DevOps and AI on AWS Specialization",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Amazon Web Services",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This module introduces the TravelGuideAI application, a travel guide application that will be upgraded with generative AI features. It covers the course overview, source code repositories, and the tools and services required for developing generative AI applications, such as Amazon Bedrock, prompt engineering, and Amazon Q Developer.",
+                    "This module focuses on integrating generative AI features into the TravelGuideAI application using Amazon Bedrock. It covers branching strategies, upgrading the application, deploying the updated application, and exploring advanced topics like customizing Amazon Bedrock models, responsible AI, and the need for DevOps practices."
+                ],
+                "Modules Name": [
+                    "Module 1: TravelGuideAI",
+                    "Module 2: Upgrading the Travel Guide Application"
+                ],
+                "Rating": 4.8,
+                "Similarity": 0.7350670695304871,
+                "Skills": "Unit Testing, Git (Version Control System), Artificial Intelligence, Large Language Modeling, Application Development, CI/CD, Data Ethics, Amazon Elastic Compute Cloud, Application Deployment, Application Lifecycle Management, Prompt Engineering, Amazon Web Services, Generative AI, DevOps",
+                "Subcategory": "Cloud Computing",
+                "Title": "DevOps and AI on AWS: Upgrading Apps with Generative AI",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Amazon Web Services",
+                "Level": "Mixed",
+                "Modules Description": [
+                    ""
+                ],
+                "Modules Name": [
+                    "Getting Started with AWS CloudFormation"
+                ],
+                "Rating": 3.7,
+                "Similarity": 0.733810305595398,
+                "Skills": "Application Deployment, Cloud Infrastructure, Amazon Web Services, Infrastructure as Code (IaC), AWS CloudFormation, IT Automation",
+                "Subcategory": "Cloud Computing",
+                "Title": "Getting Started with AWS CloudFormation",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "",
+                "Duration": "1 - 3 Months",
+                "Institution": "Whizlabs",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Welcome to Automating Infrastructure - Chef for DevOps course. By enrolling in this course, you are taking the first step to kickstarting your career in advanced DevOps field. In the first week of the course. we'll learn the essentials of Chef Fundamentals. This course will help learners to analyze stages of DevOps lifecycle. We will also familiarise with Continuous Deployment and Continuous Integration tools in this week.",
+                    "In the second week of this course, we'll learn about Chef DevOps and explore how Chef can help in DevOps Culture. We'll also describe the working of Chef Architecture. After identifying key Metrics of Chef, we'll end the module by exploring and determining the components of Chef.",
+                    "In the third week of the course, we'll get an overview of Recipes and Recipes attributes. We'll understand how to organize resources with recipes. We'll also explore cokkbooks and its working. By the end of this week, we'll have information about how to create and manage cookbooks using knife utility.",
+                    "In the fourth week of the course, we'll learn the concepts of Chef-client and Chef-server in a detailed manner. We'll also explore nodes and its working. y the end of this week, we'll be able to implement the installation of Chef Development Kit on Chef workstation.",
+                    "In the fifth week of the course, we'll be able to explore information about users, groups, role and their working. We'll demonstrate the working of organization, users, groups and roles in Chef. Also, we'll build a recipe to deploy a local user account from data bags. By the end of this module, we'll be in position to describe Data Bags.",
+                    "In the sixth week of the course, we'll be able to Illustrate AWS services such as EC2, VPC, Beanstalk, RDS and their working with Chef. We'll demonstrate working of MySQL and  WordPress with Chef. By the end of this week,we wil perform Implementation of AWS ECR and ECS with Chef.",
+                    "In the last week of this course, we'll perform the implementation of MySQL installation. We'll also implement the creation of Cookbooks in WordPress. This module will end with a demonstration of WordPress installation."
+                ],
+                "Modules Name": [
+                    "Introduction to Chef Fundamentals",
+                    "Chef Introduction and Infrastructure Setup",
+                    "Recipes and Cookbooks",
+                    "Installing Chef-Server & Chef-Client Infrastructure",
+                    "Organizations, Groups and Data Bags",
+                    "AWS Services With Chef",
+                    "Installation of MySQL and WordPress"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.7336515784263611,
+                "Skills": "Amazon Elastic Compute Cloud, Infrastructure Architecture, User Accounts, WordPress, Infrastructure as Code (IaC), Chef (Configuration Management Tool), Configuration Management, DevOps, Continuous Integration, MySQL, Server Administration, Application Deployment, Continuous Deployment, Amazon Web Services",
+                "Subcategory": "Cloud Computing",
+                "Title": "Automating Infrastructure - Chef for DevOps",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "This course is part of DevOps and AI on AWS Specialization",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Amazon Web Services",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "This module introduces the fundamentals of DevOps and its role in modern software development. It covers key principles such as Continuous Integration (CI), Infrastructure as Code (IaC), and automation, providing a foundation for managing infrastructure efficiently. You will explore how DevOps integrates with generative AI workflows, addressing unique challenges like AI model testing and deployment.",
+                    "This module focuses on deployment strategies and automation in a DevOps pipeline. Learners gain hands-on insights into AWS CodeDeploy, AWS CloudFormation, and AWS CDK, understanding how to automate infrastructure provisioning and application releases. The module also explores best practices for reducing downtime, troubleshooting deployments, and ensuring smooth model rollouts in generative AI applications.",
+                    "This module explores the importance of monitoring, observability, and operational management in DevOps workflows. Learners discover how to use Amazon CloudWatch, AWS CloudTrail, AWS X-Ray, and AWS Systems Manager to track application performance, detect issues, and ensure infrastructure stability. Special focus is given to observability in generative AI applications, highlighting metrics, logging, and automated response strategies to maintain system reliability."
+                ],
+                "Modules Name": [
+                    "Introduction to DevOps",
+                    "Release and Deploy",
+                    "Monitor and Operate"
+                ],
+                "Rating": 4.2,
+                "Similarity": 0.7264329195022583,
+                "Skills": "CI/CD, Release Management, Infrastructure as Code (IaC), System Monitoring, Application Deployment, Generative AI, Automation, AWS CloudFormation, DevOps, Amazon Web Services, Continuous Monitoring, Amazon CloudWatch, Continuous Integration, Cloud Applications, Continuous Deployment",
+                "Subcategory": "Cloud Computing",
+                "Title": "DevOps and AI on AWS: CI/CD for Generative AI Applications",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Amazon Web Services",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "In week 1 of this course, you will learn about what containers are, their use cases, and how to build a container. Then, you will explore how to host a container on AWS by using the services Amazon Elastic Container Registry (Amazon ECR) and AWS App Runner.",
+                    "In week 2 of the course, you will learn about multi-container deployments. Then, you will learn about Amazon Elastic Container Service (Amazon ECS) and AWS Fargate.",
+                    "In week 3 of this course, you will explore the basic concepts behind Kubernetes and Amazon Elastic Kubernetes Service (Amazon EKS). You will also see a demonstration that uses Amazon EKS to deploy a multi-container application.",
+                    "In week 4 of this course, you will explore other container-related services, such as Amazon CloudWatch Container Insights and AWS Lambda."
+                ],
+                "Modules Name": [
+                    "Week 1",
+                    "Week 2",
+                    "Week 3",
+                    "Week 4"
+                ],
+                "Rating": 4.6,
+                "Similarity": 0.714040994644165,
+                "Skills": "Containerization, Scalability, Serverless Computing, System Monitoring, Amazon Web Services, Kubernetes, Amazon CloudWatch, Devops Tools, Microservices, Docker (Software), Application Deployment, Amazon Elastic Compute Cloud, YAML",
+                "Subcategory": "Cloud Computing",
+                "Title": "Containerized Applications on AWS",
+                "Type": "Course"
+            },
+            {
+                "Category": "Information Technology",
+                "Description": "Launch your career in cloud computing. Build job-ready skills and gain credentials to go from beginner to job-ready in 4 months or less. No degree or prior experience required.",
+                "Duration": "3 - 6 Months",
+                "Institution": "Amazon Web Services",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Gain a foundational understanding of how computers work\nLearn how computers talk to each other to exchange data",
+                    "Describe terminology and concepts related to AWS services  Â\nArticulate key concepts of AWS security measures and AWS Identity and Access Management (IAM)   Â\nYou will learn to distinguish among several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS.\nUnderstand AWS database and storage offerings, including Amazon Relational Database Service (Amazon RDS), Amazon DynamoDB, and Amazon S3.   Â",
+                    "So far in the course series, students would have been introduced to general IT knowledge and some AWS foundations. In this course, students will be introduced to specific topics for the Support Associate role. The instructors will present the following: Cloud Support Associate best practices, how tools such as automation and genAI can help, troubleshooting methodologies, how Cloud workloads change support's approach, root cause analysis, post-mortem writing skills, and how to be your customers' trusted technical and business advisor.\nThis course will also be the first one on the series where we will bring Amazon employees in support roles to talk about their experiences and best-practices when interacting with their customers. We brought two Amazonians who work as a manager to ask them questions about hiring on the role, and two Amazonians who work as Individual Contributors assisting customers.\n\nOn camera, you can expect having the dynamic duo Morgan and Raf doing their best, which is sharing their experiences, as well as lecturing topics that will give you a good idea on what to expect on the Cloud Support field.",
+                    "This course will focus on building the skills that you need to get started with the Command Line Interface (CLI). It will cover basic navigation, program installation, reading logs, and troubleshooting issues. We will also dive into network troubleshooting and common AWS scenarios that you may encounter as a Cloud Support Associate. In the first section of this course, we will focus on how to navigate in a Linux environment using only the CLI. We will explain how to create files, directories, and the commands you need to manage your system. We will also discover how to set permissions in the environment as well as edit text and configuration files.\nIn the second section, we'll go a bit deeper into the CLI and learn about troubleshooting tools that we have available to us. You'll see how to test networking connectivity as well as install and configure Linux applications.\n\nThe third portion of this course will focus on network troubleshooting in AWS. We'll discover the common ports that can cause problems when setting up security groups and network access control lists (NACLs). We'll also learn how AWS handles DNS and the steps you can take if something isn't resolving correctly. Finally, the course concludes by covering common troubleshooting scenarios. What do you do when your Linux application keeps crashing? How about a troublesome SSH connection that isn't working? Where do you look if your hosts are missing internet connectivity? By the end of this course, you'll have a strong technical foundation in the skills needed to troubleshoot IT problems as a Cloud Support Associate.",
+                    "Automation in the Cloud can simplify processes, enable agility and scalability, and help you deploy faster. But how should you master these topics to enhance your career potential? The course kicks off by introducing automation in the cloud, comparing the differences between on-premises and cloud. We'll answer why automation is so powerful and you'll get hands-on by working with AWS CLI. Week 1 closes with automation with scripting by sharing examples of how automation helps and the benefits of using scripts. A focus on Automation isn't complete with an overview of Infrastructure as Code. You'll get introduced to Provisioning and Configuration Management and solve an automation problem with AWS CloudFormation. The instructors will then share some simple automation examples and how various tools can help you get the job done. In the course's final week, we'll cover the various AWS Services and features used for automation, how to scale resource management, and use the Systems Manager console and AWS Config for compliance.",
+                    "Introductory level Python programming and Python packages\nExplain the different roles in an organization building software",
+                    "This course's focus will be on practical aspects of preparing to work as a support agent in organizations with AWS environments. We will start with some review of previous topics covered in the series, with specific attention paid towards debugging and troubleshooting. We'll then move into concepts around interacting with customers to obtain information and progress towards a solution.\nIn the next module, you'll have the opportunity to view the architecture from various perspectives, such as builder, supporter, and interviewer. We will then shift into preparing you to apply for Cloud Support Associate positions. This will involve diving into resume and portfolio building, as well as the creation of an online presence. The second module will close out with a look at how you can evaluate opportunities and any gaps you may have in your knowledge. The third module of the course will have a focus on interviewing. This will involve preparing for interviews, discussions with professions from AWS Premium Support around the interviewing and hiring process, and looking at mock interviews and sample questions. The last module of the course will allow you to practice using the knowledge and various skills you've acquired over the course of the series with a multi-part project. In the project, you'll build, analyze, and document an application architecture. You'll also can view the architecture from various perspectives, such as builder, supporter, and interviewer."
+                ],
+                "Modules Name": [
+                    "Introduction to Information Technology and AWS Cloud",
+                    "AWS Cloud Technical Essentials",
+                    "Skills and Best Practices for Cloud Support Associates",
+                    "Cloud Support Essentials: A Technical Approach",
+                    "Automation in the AWS Cloud",
+                    "Python for Serverless Applications and Automation on AWS",
+                    "Capstone: Preparing to work as a Cloud Support Associate"
+                ],
+                "Rating": 4.8,
+                "Similarity": 0.7126845121383667,
+                "Skills": "Cloud Computing, AWS CloudFormation, IT Automation, Technical Support, Command-Line Interface, Software Architecture, Linux Commands, Web Applications, Infrastructure as Code (IaC), Customer Relationship Building, Customer Service, Network Troubleshooting",
+                "Subcategory": "Cloud Computing",
+                "Title": "AWS Cloud Support Associate",
+                "Type": "Professional Certificate"
+            }
+        ]
+    },
+    {
+        "input": {
+            "skill": [
+                "product strategy",
+                "agile",
+                "user research",
+                "roadmap",
+                "a/b testing"
+            ],
+            "category": [
+                "product management",
+                "business"
+            ]
+        },
+        "recommendations": [
+            {
+                "Category": "Business",
+                "Description": "",
+                "Duration": "1 - 3 Months",
+                "Institution": "The University of Sydney",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "This module gives you an introduction to design strategy. We will look at design thinking and the tools behind it and explore the elements of corporate strategy. Then, we will explore how design strategy can be used as a vehicle to communicate corporate strategy.",
+                    "In this module we'll look at how to plan and conduct primary market research and how to analyse the results.  We'll then step through how to craft a meaningful problem definition statement.",
+                    "In this module, we look at creating usable models and frameworks for gathering user feedback and testing solutions, through prototypes and a minimum viable product.",
+                    "In this module, you will be introduced to two practical case studies which demonstrate how two Australian based companies are using design strategy to innovate and solve problems every day.",
+                    "In this module, we will consider what the course has meant for you and how you may be able to use design strategy in your own business context."
+                ],
+                "Modules Name": [
+                    "What is design-led strategy?",
+                    "Primary market research and problem statement definition",
+                    "Prototyping and product ideation",
+                    "Design-led strategy in practice: Corporate case studies",
+                    "Course wrap-up"
+                ],
+                "Rating": 4.6,
+                "Similarity": 0.6571067571640015,
+                "Skills": "Design Thinking, Market Research, Product Development, Strategic Communication, Business Modeling, Product Testing, Innovation, Customer Insights, User Feedback, Service Design, Corporate Strategy, Business Strategy, Product Design",
+                "Subcategory": "Business Strategy",
+                "Title": "Design-Led Strategy: Design thinking for business strategy and entrepreneurship",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "This course is part of multiple programs",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "University of Virginia",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "As a product manager, you and your team will always have more ideas and more requests than you can possibly manage. Making matters still more complicated, part of your job is to develop and then 'sell' a particular view of what should happen with your product to diverse stakeholders (engineering, marketing, etc.). How do you do it? Success requires an actionable, testable focus. The successful product manager identifies vivid, testable customer outcomes and creates focus around them. This week we'll show you how to interface effectively with all your stakeholders to create that actionable focus.",
+                    "You've probably heard that the days of 'build it and they will come' are over. But what exactly should you be doing instead? There's no shortage of material out there on how to be innovative--but you only have so much time. This week we'll step through the method's today's most successful product managers are using and give you tips to \"sell\" those methods to your stakeholders. We'll also show you how to analyze growth, engagement and monetization using qualitative and quantitative methods. You'll finish the week with an understanding of which methods to apply when and hear from practitioners who are using these methods to make breakthrough products.",
+                    "Something on the order of 9 out of 10 new products fail. Those sound like daunting odds, but through disciplined exploration an effective PM knows how to make even the improbable probable. This week we'll show you how to apply your understanding of modern PM methods to exploring new product ideas. \n\nWe'll step through customer discovery, idea testing/validation, early development, and business model design. By the end you'll have a durable process you can both execute and communicate to your team.",
+                    "If you want a product that does more than make a big splash, you'll need to apply what you've learned here every week, every sprint to keep that product fresh and relevant. It's not hard to let a great product get sidetracked and become irrelevant to its users--this happens all the time. Some figures show the portion of features on successful products that are regularly used to be well under 50%. Yikes! In this week, we'll look at how successful product managers keep their products fresh and focused on valuable outcomes for their users. You'll learn how to put a focused, sustainable, program in place to keep your product competitive."
+                ],
+                "Modules Name": [
+                    "Achieving Focus and #Winning",
+                    "Applying Today's Product Management Methods",
+                    "Exploring a New Product Idea",
+                    "Amplifying an Existing Product"
+                ],
+                "Rating": 4.7,
+                "Similarity": 0.6172939538955688,
+                "Skills": "Business Modeling, Marketing Analytics, Product Management, Stakeholder Management, Product Improvement, Agile Methodology, Stakeholder Communications, Customer Insights, Customer Engagement, Design Thinking, Design and Product, New Product Development, Product Roadmaps, Product Testing, Innovation, Data-Driven Decision-Making",
+                "Subcategory": "Leadership and Management",
+                "Title": "Digital Product Management: Modern Fundamentals",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "Launch your career in product management. In this program, you'll learn in-demand skills that will have you job-ready. No degree or experience required.",
+                "Duration": "3 - 6 Months",
+                "Institution": "Xbox",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Jumpstart your Product Management journey with this foundational course that lays the groundwork for your career in product management. You'll grasp the core concepts, methodologies, and essential skills that drive successful product development across various industries.\nBy the end of this course, you'll be able to:\n\n●\tDescribe core product management concepts, principles, and methodologies. \n●\tDevelop skills to coordinate and oversee the development of products.\n●\tManage the end-to-end process of product development.\n●\tAlign product development with business goals and customer needs.\n●\tAnalyze real-world product development case studies.\n\nThis course is for entry-Level professionals looking to start a new career as a Product Manager in a related field such as Saas automation or gaming. Interested learners may be making a career switch, currently work in a related role and wish to transition into a Product Management role.",
+                    "Learn the art of market research and competitive analysis, essential skills for data-driven product decisions. Learn to gather and interpret market data, understand consumer motivations, and dissect the competitive landscape. Through SWOT analysis and the Jobs to be Done framework, you'll gain a strategic advantage by identifying opportunities and differentiating your product in the market.\nBy the end of this course, you'll be able to:\n\n●\tCollect and analyze market data \n●\tConduct thorough competitive analysis to gain insights into competitors' strategies.\n●\tComplete a final project that demonstrates your ability to conduct market research and competitive analysis.\n\nThis course is for entry-Level professionals looking to start a new career as a Product Manager in a related field such as Saas automation or gaming. Interested learners may be making a career switch, currently work in a related role and wish to transition into a Product Management role.",
+                    "Transform your innovative product ideas into reality with this course. Learn to generate, evaluate, and prioritize concepts, crafting a compelling product vision and strategy. Develop detailed roadmaps to guide development, define precise requirements, and collaborate effectively with stakeholders.\nBy the end of this course, you'll be able to:\n●\tGenerate new product ideas based on market and competitive research.\n●\tDevelop a high-level product strategy. \n●\tCreate a detailed product roadmap outlining objectives, milestones, and timelines.\n●\tDefine product requirements.\n●\tComplete a final project that demonstrates your ability to develop a product strategy and roadmap.\n\nThis course is for entry-Level professionals looking to start a new career as a Product Manager in a related field such as Saas automation or gaming. Interested learners may be making a career switch, currently work in a related role and wish to transition into a Product Management role.",
+                    "Dive into the world of product design and master the art of creating user-friendly interfaces. You'll learn to collaborate effectively with design teams, create wireframes and mockups, conduct product testing, and iterate on designs based on user feedback.\nBy the end of this course, you'll be able to:\n\n●\tExplain the roles of various design team members and the UX/UI design process.\n●\tApply design thinking and UX/UI principles to create user-friendly interfaces.\n●\tDevelop wireframes and mockups using tools like Figma.\n●\tConduct product testing, analyze feedback, and iterate on designs.\n\nThis course is for entry-Level professionals looking to start a new career as a Product Manager in a related field such as Saas automation or gaming. Interested learners may be making a career switch, currently work in a related role and wish to transition into a Product Management role.",
+                    "Navigate the thrilling journey of product launch with confidence. This course equips you to plan and execute successful launches, foster cross-functional collaboration, and develop impactful marketing and sales strategies. Plus, explore how generative AI can revolutionize every stage of product management, from launch to legacy.\nBy the end of this course, you'll be able to:\n\n●\tPlan and coordinate a successful product launch.\n●\tDevelop and implement product marketing and sales strategies.\n●\tApply quality assurance and control techniques.\n●\tManage the product life cycle post-launch, including updates and improvements.\n●\tComplete a final project that explains the ability to launch and manage a product.\n\nThis course is for entry-Level professionals looking to start a new career as a Product Manager in a related field such as Saas automation or gaming. Interested learners may be making a career switch, currently work in a related role and wish to transition into a Product Management role."
+                ],
+                "Modules Name": [
+                    "Product Management Fundamentals",
+                    "Market Research and Competitive Analysis",
+                    "Product Strategy and Roadmapping",
+                    "Product Design and UX/UI Fundamentals",
+                    "Product Launch and Post-Launch Management"
+                ],
+                "Rating": 4.7,
+                "Similarity": 0.613778829574585,
+                "Skills": "Product Planning, Product Roadmaps, Consumer Behaviour, Design Thinking, Market Research, New Product Development, Usability Testing, Wireframing, User Interface and User Experience (UI/UX) Design, Market Analysis, Product Strategy, Product Management",
+                "Subcategory": "Business Strategy",
+                "Title": "Xbox Product Manager",
+                "Type": "Professional Certificate"
+            },
+            {
+                "Category": "Business",
+                "Description": "This course is part of Product Ideation, Design, and Management Specialization",
+                "Duration": "1 - 3 Months",
+                "Institution": "University of Maryland, College Park",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "Modules Name": [
+                    "Introduction to Establishing Product-Market Fit",
+                    "Defining Product-Market Fit",
+                    "Identifying Underserved Customer Needs",
+                    "Determining Your Target Customer",
+                    "Module 5: Defining Your Value Proposition",
+                    "Specifying Your Feature Set",
+                    "Creating Your Prototype",
+                    "Testing Your MVP with Customers",
+                    "Improving Product-Market Fit",
+                    "Final Thoughts"
+                ],
+                "Rating": 4.6,
+                "Similarity": 0.6106729507446289,
+                "Skills": "New Product Development, Market Analysis, Product Design, Value Propositions, Competitive Analysis, Target Market, User Experience, User Feedback, Product Strategy, Product Testing, Customer Analysis, Ideation, Product Management, Product Improvement, Product Development, Lean Methodologies",
+                "Subcategory": "Marketing",
+                "Title": "Establishing Product-Market Fit",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "This course is part of Real-World Product Management Specialization",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Advancing Women in Tech",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Join Advancing Women in Tech and AWS in this product management specialization as we raise the bar on product management courses!",
+                    "Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. But the term \"customer\" is overused: customer service, customer segmentation, customer journeys, customer personas, customer empathy, customer satisfaction, the customer is always right. Learn how to systematically delight your customers with AWIT and AWS!",
+                    "Leaders are owners. They think long term and don't sacrifice long-term value for short-term results. Two tools AWIT and AWS recommend to help PMs like you think long term are the PRD (product requirements document) and the PRFAQ (press release/frequently asked questions). This week, you'll draft and critique both!",
+                    "Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers. Join AWIT and AWS to learn how to communicate your own bold direction, whether to customers, investors, or the world!"
+                ],
+                "Modules Name": [
+                    "Insist on the Highest Standards as a Product Manager",
+                    "Customer Obsession",
+                    "Ownership",
+                    "Think Big as a Product Manager"
+                ],
+                "Rating": 4.5,
+                "Similarity": 0.6053531169891357,
+                "Skills": "Market Analysis, Product Requirements, Innovation, Product Roadmaps, Customer Insights, New Product Development, Product Management, Persuasive Communication, Product Lifecycle Management, Product Strategy, Competitive Analysis, Customer experience strategy (CX), B2B Sales",
+                "Subcategory": "Leadership and Management",
+                "Title": "The Business of Product Management I",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "Prepare for a career as a product manager. Gain the in-demand skills and hands-on experience to get job ready in less than 3 months. No prior experience required.",
+                "Duration": "3 - 6 Months",
+                "Institution": "IBM",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Summarize the roles, responsibilities, skills, competencies, and knowledge requirements for a product manager's success.\nExamine the end-to-end product management lifecycle and the role the product manager plays that drives product success.\nInvestigate \"value creation\" and the contributions of the product manager that potentially add value to a product.\nCompare and contrast possible career paths in product management and the certifications that will help you progress in the field.",
+                    "Apply essential communication and collaboration skills critical to product success\nDevelop interpersonal and business skills essential for product management\nAnalyze various product management communication challenges and identify the impact of communication styles\nExamine a case study and evaluate both its strengths and areas for improvement and then offer actionable recommendations",
+                    "Identify the product concept using tools and techniques\nPerform a product external assessment and internal assessment and record your findings in a SWOT template\nAnalyze market and solution requirements and develop a market requirements document (MRD)\nDevelop a product roadmap and perform a financial analysis using a business case",
+                    "Develop a comprehensive product development and launch checklist to enhance success potential\nDefine the required key pre-launch and post launch planning activities to ensure market readiness\nReview a beta testing checklist to effectively acquire customer feedback and determine key issues that must be addressed\nUse a checklist to determine overall launch readiness and steps that must be taken to move to the Deliver phase",
+                    "Adopt the 5 practices of Agile, a subset of DevOps: small batches, minimum viable product, pair programming, behavior- and test-driven development.\nWrite good user stories, estimate and assign story points and track stories using a kanban board.  Incorporate Scrum artifacts, events, and benefits.\nCreate and refine a product backlog using the sprint planning process. Produce potentially shippable product increments with every iteration.\nCreate burndown charts to forecast the ability to meet a sprint goal. Use metrics to enhance performance, productivity, and client satisfaction.",
+                    "Apply your product development lifecycle knowledge and prepare the key artifacts required to complete each phase.\nDemonstrate product management proficiency by creating selected artifacts such as product concept, requirements, end-of-life plan.\nIllustrate your product management skills and accomplishments through the development of a personal portfolio.\nEvaluate your readiness to pass the AIPMM Certified Product Manager (CPM) certification exam.",
+                    "List test eligibility and application requirements for the Certified Product Manager (CPM) examination\nRecall testing options, testing content, and testing strategies for the CPM certification exam\nEvaluate your CPM exam readiness by passing a 40-question practice exam\nDemonstrate your preparedness for the actual CPM examination by passing a timed 120-question mock exam"
+                ],
+                "Modules Name": [
+                    "Product Management: An Introduction",
+                    "Product Management: Foundations & Stakeholder Collaboration",
+                    "Product Management: Initial Product Strategy and Plan",
+                    "Product Management: Developing and Delivering a New Product",
+                    "Introduction to Agile Development and Scrum",
+                    "Product Management: Capstone Project",
+                    "Practice Exam for AIPMM Certified Product Manager (CPM)"
+                ],
+                "Rating": 4.8,
+                "Similarity": 0.5995405316352844,
+                "Skills": "Product Planning, Product Development, Product Roadmaps, Kanban Principles, Backlogs, New Product Development, Usability Testing, Stakeholder Engagement, Agile Project Management, Product Strategy, Leadership, Product Management",
+                "Subcategory": "Leadership and Management",
+                "Title": "IBM Product Manager",
+                "Type": "Professional Certificate"
+            },
+            {
+                "Category": "Business",
+                "Description": "This course is part of Product Ideation, Design, and Management Specialization",
+                "Duration": "1 - 3 Months",
+                "Institution": "University of Maryland, College Park",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Get acquainted with the learning experience and course format, meet the faculty, and connect with classmates from across the globe.",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "Modules Name": [
+                    "Introduction to Creative Design, Prototyping, and Testing",
+                    "Development Processes and Organizations",
+                    "Concept Generation and Selection",
+                    "Product Design and Architecture",
+                    "Principles of Prototyping and User Experience",
+                    "Wireframing and Prototyping Models",
+                    "Robust Design Considerations",
+                    "Testing and Troubleshooting",
+                    "Project Management",
+                    "Final Thoughts"
+                ],
+                "Rating": 4.2,
+                "Similarity": 0.5954153537750244,
+                "Skills": "Product Management, Design Thinking, Product Development, User Experience Design, Project Management, New Product Development, Conceptual Design, Product Testing, Product Design, Prototyping, Agile Methodology, Wireframing",
+                "Subcategory": "Marketing",
+                "Title": "Creative Design, Prototyping, and Testing",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "This course is part of multiple programs",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "Starweaver",
+                "Level": "Intermediate",
+                "Modules Description": [
+                    "In this course, you'll explore the transformative power of Generative AI in product management through practical, real-world applications. Through hands-on experience with tools like ChatGPT, Microsoft Copilot, and Google Gemini, you'll learn to enhance product strategy, streamline market research, and create high-quality artifacts such as Product Vision Boards, Business Model Canvases, and User Stories. You'll also apply AI to generate insights, define customer needs, and accelerate innovation—empowering you to drive faster, smarter product decisions across the development lifecycle."
+                ],
+                "Modules Name": [
+                    "ChatGPT (and other AI) for Product Management & Innovation"
+                ],
+                "Rating": "No rating",
+                "Similarity": 0.591767430305481,
+                "Skills": "Competitive Analysis, User Story, Product Management, Product Strategy, Generative AI, Prompt Engineering, Business Strategy, Microsoft Copilot, Sprint Planning, Agile Methodology, Market Research, Product Roadmaps, ChatGPT, Product Development",
+                "Subcategory": "Business Strategy",
+                "Title": "ChatGPT (and other AI) for Product Management & Innovation",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "This course is part of Product Ideation, Design, and Management Specialization",
+                "Duration": "1 - 4 Weeks",
+                "Institution": "University of Maryland, College Park",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "Get acquainted with the learning experience and course format, meet the faculty, and connect with classmates from across the globe.",
+                    "Examine entrepreneurial thinking within yourself and your colleagues with an awareness of entrepreneurial mindset, entrepreneurial motivations, and entrepreneurial behaviors",
+                    "Cultivate seeing entrepreneurially within yourself and your colleagues with attention to industry conditions, industry status, macroeconomic change, and competition",
+                    "Champion acting entrepreneurially within the corporate environment with an understanding of value innovation and opportunity identification"
+                ],
+                "Modules Name": [
+                    "Introduction to Developing Innovative Ideas for Product Leaders",
+                    "Thinking Entrepreneurially",
+                    "Seeing Entrepreneurially",
+                    "Acting Entrepreneurially"
+                ],
+                "Rating": 4.4,
+                "Similarity": 0.5835821628570557,
+                "Skills": "Market Opportunities, Target Market, New Product Development, Value Propositions, Entrepreneurship, Customer Analysis, Competitive Analysis, Innovation, Market Analysis, Market Dynamics, Corporate Strategy, Ideation, Product Management, Business, Decision Making",
+                "Subcategory": "Leadership and Management",
+                "Title": "Developing Innovative Ideas for Product Leaders",
+                "Type": "Course"
+            },
+            {
+                "Category": "Business",
+                "Description": "",
+                "Duration": "1 - 3 Months",
+                "Institution": "University of Illinois Urbana-Champaign",
+                "Level": "Beginner",
+                "Modules Description": [
+                    "You will become familiar with the course, your classmates, and our learning environment. The orientation will also help you obtain the technical skills required for the course. You will also become familiar with the tools and process of analyzing a business situation.",
+                    "The high risk and cost of new product failure highlights the importance of understanding the reasons for new product successes and failures.  In this module, we will identify and discuss the major reasons for new product development successes and failures. You will experience first-hand the value of creativity in developing a new product and examine the best practices of successful firms and entrepreneurs.",
+                    "This module will begin by providing an overview of the customer knowledge requirements across stages of the product development cycle. It will then provide a brief overview of qualitative and quantitative research methods and its benefits in understanding customer needs in product development.",
+                    "This module will provide a conceptual overview of the voice of the customer method for identifying customer needs and expectations for a product or service.  This module emphasizes the use of active and passive methods of observing customer behaviors.",
+                    "The purpose of the journey map is to identify the touch points of engagement with customers and to identify customer needs and expectations through the eye of the customer and their experiences."
+                ],
+                "Modules Name": [
+                    "MODULE 0: Orientation and Introduction to the Case Study Method",
+                    "MODULE 1: What Makes a Great New Product",
+                    "MODULE 2: Product Development Customer Knowledge Requirement",
+                    "MODULE 3: Identifying the Voice of Your Customer",
+                    "MODULE 4: Design Thinking and Customer Journey Maps"
+                ],
+                "Rating": 4.4,
+                "Similarity": 0.5815088748931885,
+                "Skills": "Business Research, Product Development, Persona Development, Analysis, User Research, New Product Development, Customer experience improvement, Design Thinking, Consumer Behaviour, Process Mapping, Product Management, Customer Insights, Customer experience strategy (CX), Needs Assessment, Customer Analysis, Product Strategy, Market Research, Innovation",
+                "Subcategory": "Marketing",
+                "Title": "Customer Insights: New Product Development Orientation",
+                "Type": "Course"
+            }
+        ]
+    }
+]
