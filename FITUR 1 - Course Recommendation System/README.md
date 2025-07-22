@@ -28,7 +28,7 @@ Ikuti langkah berikut untuk menginstal semua library yang dibutuhkan:
    .venv\Scripts\activate   # Windows
    source .venv/bin/activate  # MacOS/Linux
    ```
-2. Jalankan perintah berikut di terminal:
+2. **Instal library** yang dibutuhkan dengan menjalankan perintah berikut di terminal:
    ```
    pip install -r requirements.txt
    ```
