@@ -49,3 +49,5 @@ for input_data in test_cases:
 filename = "PP_MLOps_Nurul Ainil Fitri_Pricillia Silfany_Output.json"
 with open(filename, "w", encoding="utf-8") as f:
     json.dump(all_outputs, f, indent=4, ensure_ascii=False)
+
+print("Done")
