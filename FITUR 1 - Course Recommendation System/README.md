@@ -9,7 +9,7 @@ Sistem rekomendasi kursus berbasis *Content-Based Filtering* yang dapat memberik
 ├── test.py                        # Script untuk mengetes API secara lokal
 ├── course_scraping.ipynb          # Notebook untuk scraping data kursus
 ├── course_preprocessing.ipynb     # Notebook untuk preprocessing dan embedding
-├── output.json                    # Output hasil rekomendasi
+├── PP_MLOps_Nurul Ainil Fitri_Pricillia Silfany_Output.json      # Output hasil rekomendasi
 │
 ├── data/
 │   ├── courses_data_raw.csv       # Data mentah hasil scraping
