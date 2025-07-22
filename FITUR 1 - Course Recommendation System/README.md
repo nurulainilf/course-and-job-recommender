@@ -10,6 +10,7 @@ Sistem rekomendasi kursus berbasis *Content-Based Filtering* yang dapat memberik
 ├── course_scraping.ipynb          # Notebook untuk scraping data kursus
 ├── course_preprocessing.ipynb     # Notebook untuk preprocessing dan embedding
 ├── PP_MLOps_Nurul Ainil Fitri_Pricillia Silfany_Output.json      # Output hasil rekomendasi
+├── requirements.txt               # Daftar dependencies
 │
 ├── data/
 │   ├── courses_data_raw.csv       # Data mentah hasil scraping
@@ -19,6 +20,19 @@ Sistem rekomendasi kursus berbasis *Content-Based Filtering* yang dapat memberik
 ├── models/
 │   └── sentence_model/            # Folder model SBERT yang digunakan
 ```
+
+## 📦 Instalasi Dependencies
+Ikuti langkah berikut untuk menginstal semua library yang dibutuhkan:
+1. **Aktifkan virtual environment** (jika sudah dibuat) dengan menulis perintah berikut diterminal:
+   ```
+   .venv\Scripts\activate   # Windows
+   source .venv/bin/activate  # MacOS/Linux
+   ```
+2. Jalankan perintah berikut di terminal:
+   ```
+   pip install -r requirements.txt
+   ```
+
 ## ⚙ Cara Menjalankan Proyek
 
 ### 1️⃣ Preprocessing (Opsional)
