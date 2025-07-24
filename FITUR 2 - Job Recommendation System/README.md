@@ -20,7 +20,7 @@ Pastikan Anda memiliki file berikut sebelum menjalankan proyek:
 
 ### 1. Siapkan Dataset
 
-Pastikan file `dealls_jobs_tech.csv` berada di direktori proyek.
+Pastikan file `jobs_data.csv` dan `courses_data.csv` berada di direktori proyek.
 
 ### 2. Jalankan Training & Simpan Model
 
