@@ -37,7 +37,7 @@ def get_top_similar_courses(input_text, input_category=None, top_n=10):
     result_df = filtered_df.iloc[top_indices][[
         'Title', 'Institution', 'Type', 'Level', 'Duration',
         'Category', 'Subcategory', 'Rating', 'Description',
-        'Skills', 'Modules Name', 'Modules Description'
+        'Skills', 'Enrolled', 'Modules Name', 'Modules Description', 'Modules Duration'
     ]].copy()
     result_df['Similarity'] = similarities[top_indices]
 
