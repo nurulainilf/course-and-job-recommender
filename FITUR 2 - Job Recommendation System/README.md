@@ -8,7 +8,8 @@ Sistem rekomendasi pekerjaan berbasis konten untuk lowongan kerja di bidang tekn
 
 Pastikan Anda memiliki file berikut sebelum menjalankan proyek:
 
-- `dealls_jobs_tech.csv` — Dataset utama berisi deskripsi pekerjaan
+- `jobs_data.csv` — Dataset utama berisi deskripsi pekerjaan
+- `courses_data.csv` — Dataset utama berisi deskripsi course
 - `model_training_jobs.py` — Script untuk melakukan preprocessing, training, dan menyimpan model
 - `app.py` — Script utama untuk menjalankan API Flask
 - `tester.py` — Script opsional untuk menguji API lokal secara otomatis
