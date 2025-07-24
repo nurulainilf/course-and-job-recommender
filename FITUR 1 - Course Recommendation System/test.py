@@ -46,7 +46,7 @@ for input_data in test_cases:
         print(response.status_code, response.text)
 
 # Simpan ke file JSON
-filename = "PP_MLOps_Nurul Ainil Fitri_Pricillia Silfany_Output.json"
+filename = "PP_MLOps_Nurul Ainil Fitri_Pricillia Silfany_Output2.json"
 with open(filename, "w", encoding="utf-8") as f:
     json.dump(all_outputs, f, indent=4, ensure_ascii=False)
 
