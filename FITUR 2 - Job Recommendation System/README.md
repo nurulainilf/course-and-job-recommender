@@ -34,11 +34,13 @@ Script ini akan:
 - Membuat embeddings menggunakan SBERT
 - Menyimpan model dan embeddings ke dalam folder recommender_models
   Folder yang akan otomatis dibuat:
+  ```text
   recommender_models/
   ├── sbert_embeddings.pkl
   ├── df_for_recommendation.pkl
   └── sbert_model_dir/
   └── ... (isi model SBERT)
+  ```
 - Output file JSON
 
 ### 3. Jalankan API secara lokal
