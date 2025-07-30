@@ -62,6 +62,28 @@ test_cases = [
         ],
         "category": ["Data & Product", "IT & Engineering"],
         "top_n": 10
+    },
+    {
+        "skill": [
+            "Network Protocols",
+            "Firewalls",
+            "VPN",
+            "Intrusion Detection Systems (IDS)",
+            "Wireshark"
+        ],
+        "category": ["IT & Engineering"],
+        "top_n": 10
+    },
+    {
+        "skill": [
+            "Unity",
+            "C#",
+            "Unreal Engine",
+            "Blueprints",
+            "Frame Rate"
+        ],
+        "category": ["IT & Engineering", "Design & Creative"],
+        "top_n": 10
     }
 ]
 
@@ -100,6 +122,7 @@ for case in all_outputs:
             "Skills": ", ".join(input_skills),
             "Job Industry": ", ".join(input_category),
             "Course Title": rec.get("Title"),
+            "Course Description": rec.get("Description"),
             "Course Category": rec.get("Category"),
             "Course Subcategory": rec.get("Subcategory"),
             "Skills Achieved": rec.get("Skills"),
@@ -111,6 +134,6 @@ for case in all_outputs:
         })
 
 df_result = pd.DataFrame(rows)
-df_result.to_csv("recommendation_results.csv", index=False)
+df_result.to_csv("evaluation/recommendation_results.csv", index=False)
 
 print("Done")
