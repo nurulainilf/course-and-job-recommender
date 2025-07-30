@@ -7,6 +7,7 @@ Sistem rekomendasi kursus berbasis *Content-Based Filtering* yang dapat memberik
 ├── app.py                         # Endpoint Flask utama
 ├── recommender.py                 # Fungsi pemrosesan rekomendasi
 ├── test.py                        # Script untuk mengetes API secara lokal
+├── test2.py                       # Script untuk mengevaluasi sistem rekomendasi
 ├── course_scraping.ipynb          # Notebook untuk scraping data kursus
 ├── course_preprocessing.ipynb     # Notebook untuk preprocessing dan embedding
 ├── PP_MLOps_Nurul Ainil Fitri_Pricillia Silfany_Output.json      # Output hasil rekomendasi
@@ -19,6 +20,12 @@ Sistem rekomendasi kursus berbasis *Content-Based Filtering* yang dapat memberik
 │
 ├── models/
 │   └── sentence_model/            # Folder model SBERT yang digunakan
+│
+├── evaluation/
+│   ├── evaluation.ipynb                # Notebook untuk menghitung metrik evaluasi
+│   ├── for_evaluation_output.json      # Hasil rekomendasi dalam bentuk JSON
+│   ├── ground_truth.csv                # Hasil evaluasi rekomendasi
+│   └── recommendation_results.csv      # Hasil rekomendasi dalam bentuk CSV
 ```
 
 ## 📦 Instalasi Dependencies
