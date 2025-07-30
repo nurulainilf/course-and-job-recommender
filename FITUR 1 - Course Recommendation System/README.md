@@ -117,3 +117,21 @@ Jika berhasil, kamu akan mendapatkan daftar rekomendasi kursus dalam format JSON
 
 6. **(Opsional) Simpan response ke file** 
 Klik ikon titik tiga di kanan atas hasil response → `Save Response`
+
+## 📊 Evaluasi Performa Sistem Rekomendasi
+
+Evaluasi dilakukan menggunakan metrik **Precision@10**, yaitu rasio jumlah kursus relevan (berdasarkan label *ground truth*) yang termasuk dalam 10 rekomendasi teratas. Evaluasi mencakup 7 test case yang merepresentasikan berbagai bidang dalam industri teknologi, berdasarkan penilaian dari 7 pengguna. Berikut hasil evaluasinya:
+
+| Test Case Field         | Precision@10 |
+|-------------------------|--------------|
+| Project Management      | 0.4          |
+| Front-end Development   | 0.7          |
+| Cybersecurity           | 0.8          |
+| Digital Marketing       | 0.9          |
+| Data Science            | 0.7          |
+| UI/UX Design            | 0.8          |
+| Game Development        | 0.7          |
+
+📈 **Rata-rata Precision@10: 0.7143**
+
+Hasil ini menunjukkan bahwa sistem mampu memberikan rekomendasi yang cukup relevan dengan kebutuhan pengguna, dengan rata-rata 7 dari 10 kursus yang direkomendasikan sesuai dengan ground truth yang telah ditentukan.
