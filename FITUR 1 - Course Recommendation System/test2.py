@@ -1,5 +1,6 @@
 import requests
 import json
+import pandas as pd
 
 test_cases = [
     {
@@ -17,10 +18,11 @@ test_cases = [
         "skill": [
             "Agile",
             "Scrum",
-            "Kanban Principle",
-            "Jira",
-            "Sprint Planning",
-            "Product Lifecycle"
+            "Kanban",
+            "Sprint Retrospectives",
+            "Waterfall Methodology",
+            "Stakeholder Engagement",
+            "Product Lifecycle Management"
         ],
         "category": ["Data & Product", "IT & Engineering"],
         "top_n": 10
@@ -85,5 +87,30 @@ for input_data in test_cases:
 filename = "for_evaluation_output.json"
 with open(filename, "w", encoding="utf-8") as f:
     json.dump(all_outputs, f, indent=4, ensure_ascii=False)
+
+rows = []
+
+for case in all_outputs:
+    input_skills = case["input"]["skill"]
+    input_category = case["input"]["category"]
+    recommendations = case["recommendations"]
+
+    for rec in recommendations:
+        rows.append({
+            "Skills": ", ".join(input_skills),
+            "Job Industry": ", ".join(input_category),
+            "Course Title": rec.get("Title"),
+            "Course Category": rec.get("Category"),
+            "Course Subcategory": rec.get("Subcategory"),
+            "Skills Achieved": rec.get("Skills"),
+            "Course Modules": "\n".join(
+                f"{name}: {desc}" if desc else name
+                for name, desc in zip(rec.get("Modules Name", []), rec.get("Modules Description", []))
+            ) if isinstance(rec.get("Modules Name"), list) and isinstance(rec.get("Modules Description"), list) else rec.get("Modules Name"),
+            "Similarity Score": rec.get("Similarity")
+        })
+
+df_result = pd.DataFrame(rows)
+df_result.to_csv("recommendation_results.csv", index=False)
 
 print("Done")
