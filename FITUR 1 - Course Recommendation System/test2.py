@@ -4,41 +4,34 @@ import json
 test_cases = [
     {
         "skill": [
-            "User Interface (UI)",
-            "User Experience",
+            "UI/UX",
+            "User Research",
             "Figma",
-            "Prototyping",
-            "Mockups",
-            "Visual Design",
-            "Creativity"
+            "Adobe XD",
+            "Color Theory"
         ],
         "category": ["Design & Creative"],
         "top_n": 10
     },
     {
         "skill": [
-            "Project Management",
             "Agile",
             "Scrum",
-            "Kanban",
+            "Kanban Principle",
             "Jira",
-            "Team Management",
-            "Project Scheduling",
-            "Stakeholder Management",
-            "Gantt Charts"
+            "Sprint Planning",
+            "Product Lifecycle"
         ],
         "category": ["Data & Product", "IT & Engineering"],
         "top_n": 10
     },
     {
         "skill": [
-            "Node.js",
-            "Express.js",
-            "RESTful APIs",
-            "Middleware",
-            "Routing",
-            "Laravel (PHP)",
-            "Website"
+            "Javascript",
+            "Angular",
+            "React",
+            "CSS",
+            "Responsive Website Design"
         ],
         "category": ["IT & Engineering"],
         "top_n": 10
@@ -59,14 +52,10 @@ test_cases = [
     {
         "skill": [
             "Predictive Modeling",
-            "Model Evaluation",
-            "Pattern Recognition",
             "Python",
-            "Pandas",
             "Scikit-learn",
-            "Jupyter Notebook",
-            "Data Wrangling",
-            "Linear Regression",
+            "NumPy",
+            "Unsupervised Learning",
             "Clustering"
         ],
         "category": ["Data & Product", "IT & Engineering"],
@@ -93,7 +82,7 @@ for input_data in test_cases:
         print(response.status_code, response.text)
 
 # Simpan ke file JSON
-filename = "test2_output.json"
+filename = "for_evaluation_output.json"
 with open(filename, "w", encoding="utf-8") as f:
     json.dump(all_outputs, f, indent=4, ensure_ascii=False)
 
