@@ -48,10 +48,12 @@ category_mapping = {
 }
 
 def map_category_group(cat, subcat):
-    group = category_mapping.get(cat)
-    if group:
-        return group
-    return subcategory_mapping.get(subcat)
+    groups = set()
+    if cat in category_mapping:
+        groups.add(category_mapping[cat])
+    if subcat in subcategory_mapping:
+        groups.add(subcategory_mapping[subcat])
+    return list(groups) if groups else None
 
 
 def get_top_similar_courses(input_text, input_category=None, top_n=10):
@@ -64,8 +66,11 @@ def get_top_similar_courses(input_text, input_category=None, top_n=10):
                     lambda row: map_category_group(row['Category'], row['Subcategory']), axis=1
                 )
 
-            mask = df['MappedGroup'].str.lower().apply(
-                lambda group: any(ic in group for ic in input_category_lower) if pd.notnull(group) else False
+            mask = df['MappedGroup'].apply(
+                lambda group_list: any(
+                    group.lower() in input_category_lower
+                    for group in group_list
+                ) if isinstance(group_list, list) else False
             )
 
             filtered_df = df[mask].copy()
